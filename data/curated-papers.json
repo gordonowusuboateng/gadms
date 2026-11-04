@@ -1,0 +1,614 @@
+[
+  {
+    "method": "DriveGAN",
+    "title": "",
+    "year": 2021,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR46437.2021.00576",
+    "code_url": ""
+  },
+  {
+    "method": "GAIA-1",
+    "title": "GAIA-1: A Generative World Model for Autonomous Driving",
+    "year": 2023,
+    "venue": "arXiv",
+    "category": "world",
+    "paper_url": "https://arxiv.org/abs/2309.17080",
+    "code_url": ""
+  },
+  {
+    "method": "GAIA-2",
+    "title": "GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving",
+    "year": 2025,
+    "venue": "arXiv",
+    "category": "world",
+    "paper_url": "https://arxiv.org/abs/2503.20523",
+    "code_url": ""
+  },
+  {
+    "method": "UniSim",
+    "title": "UniSim: A Neural Closed-Loop Sensor Simulator",
+    "year": 2023,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52729.2023.00140",
+    "code_url": ""
+  },
+  {
+    "method": "Drive-WM",
+    "title": "Driving Into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+    "year": 2024,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52733.2024.01397",
+    "code_url": ""
+  },
+  {
+    "method": "DriveDreamer",
+    "title": "",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1007/978-3-031-73195-2_4",
+    "code_url": ""
+  },
+  {
+    "method": "DrivingDiffusion",
+    "title": "",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1007/978-3-031-73229-4_27",
+    "code_url": ""
+  },
+  {
+    "method": "Panacea",
+    "title": "Panacea: Panoramic and Controllable Video Generation for Autonomous Driving",
+    "year": 2024,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "WoVoGen",
+    "title": "",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1007/978-3-031-72989-8_19",
+    "code_url": ""
+  },
+  {
+    "method": "Vista",
+    "title": "Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability",
+    "year": 2024,
+    "venue": "NeurIPS",
+    "category": "world",
+    "paper_url": "https://doi.org/10.52202/079017-2906",
+    "code_url": ""
+  },
+  {
+    "method": "GenieDrive",
+    "title": "GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation",
+    "year": 2026,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "DriveScape",
+    "title": "",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.01602",
+    "code_url": ""
+  },
+  {
+    "method": "InstaDrive",
+    "title": "",
+    "year": 2025,
+    "venue": "ICCV",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/ICCV51701.2025.02357",
+    "code_url": ""
+  },
+  {
+    "method": "DriveDreamer4D",
+    "title": "",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.01122",
+    "code_url": ""
+  },
+  {
+    "method": "OccWorld",
+    "title": "OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1007/978-3-031-72624-8_4",
+    "code_url": "https://github.com/wzzheng/OccWorld"
+  },
+  {
+    "method": "Drive-OccWorld",
+    "title": "Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving",
+    "year": 2025,
+    "venue": "AAAI",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1609/aaai.v39i9.33010",
+    "code_url": ""
+  },
+  {
+    "method": "DOME",
+    "title": "",
+    "year": 2024,
+    "venue": "arXiv",
+    "category": "world",
+    "paper_url": "https://arxiv.org/abs/2410.10429",
+    "code_url": ""
+  },
+  {
+    "method": "OccSora",
+    "title": "OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving",
+    "year": 2026,
+    "venue": "IEEE Trans. Image Processing",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/TIP.2026.3687468",
+    "code_url": ""
+  },
+  {
+    "method": "DIO",
+    "title": "DIO: Decomposable Implicit 4D Occupancy-Flow World Model",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.02557",
+    "code_url": ""
+  },
+  {
+    "method": "DynamicCity",
+    "title": "",
+    "year": 2025,
+    "venue": "ICLR",
+    "category": "world",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "UniScene",
+    "title": "",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.01118",
+    "code_url": ""
+  },
+  {
+    "method": "DriveWorld",
+    "title": "",
+    "year": 2024,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52733.2024.01470",
+    "code_url": ""
+  },
+  {
+    "method": "Hermes++",
+    "title": "",
+    "year": 2026,
+    "venue": "TPAMI",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/TPAMI.2026.3735606",
+    "code_url": ""
+  },
+  {
+    "method": "MILE",
+    "title": "",
+    "year": 2022,
+    "venue": "NeurIPS",
+    "category": "world",
+    "paper_url": "https://doi.org/10.52202/068431-1505",
+    "code_url": ""
+  },
+  {
+    "method": "BEVWorld",
+    "title": "BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents",
+    "year": 2025,
+    "venue": "arXiv",
+    "category": "world",
+    "paper_url": "https://arxiv.org/abs/2407.05679",
+    "code_url": ""
+  },
+  {
+    "method": "TrafficBots",
+    "title": "",
+    "year": 2023,
+    "venue": "ICRA",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/ICRA48891.2023.10161243",
+    "code_url": ""
+  },
+  {
+    "method": "SceneDiffuser",
+    "title": "",
+    "year": 2024,
+    "venue": "NeurIPS",
+    "category": "world",
+    "paper_url": "https://doi.org/10.52202/079017-1771",
+    "code_url": ""
+  },
+  {
+    "method": "SceneDiffuser++",
+    "title": "",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.00154",
+    "code_url": ""
+  },
+  {
+    "method": "Think2Drive",
+    "title": "",
+    "year": 2024,
+    "venue": "ECCV",
+    "category": "world",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "CarDreamer",
+    "title": "",
+    "year": 2025,
+    "venue": "IEEE Internet of Things Journal",
+    "category": "world",
+    "paper_url": "https://doi.org/10.1109/JIOT.2024.3479088",
+    "code_url": ""
+  },
+  {
+    "method": "OccLLaMA",
+    "title": "OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving",
+    "year": 2024,
+    "venue": "arXiv",
+    "category": "world",
+    "paper_url": "https://arxiv.org/abs/2409.03272",
+    "code_url": ""
+  },
+  {
+    "method": "DESIRE",
+    "title": "",
+    "year": 2017,
+    "venue": "CVPR",
+    "category": "motion",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "Trajectron++",
+    "title": "Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data",
+    "year": 2020,
+    "venue": "ECCV",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1007/978-3-030-58523-5_40",
+    "code_url": ""
+  },
+  {
+    "method": "MultiPath++",
+    "title": "",
+    "year": 2022,
+    "venue": "ICRA",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/ICRA46639.2022.9812107",
+    "code_url": ""
+  },
+  {
+    "method": "AgentFormer",
+    "title": "",
+    "year": 2021,
+    "venue": "ICCV",
+    "category": "motion",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "MotionDiffuser",
+    "title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+    "year": 2023,
+    "venue": "CVPR",
+    "category": "motion",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "MotionLM",
+    "title": "MotionLM: Multi-Agent Motion Forecasting as Language Modeling",
+    "year": 2023,
+    "venue": "ICCV",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/ICCV51070.2023.00788",
+    "code_url": ""
+  },
+  {
+    "method": "ParkDiffusion",
+    "title": "ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models",
+    "year": 2025,
+    "venue": "IROS",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/IROS60139.2025.11246467",
+    "code_url": ""
+  },
+  {
+    "method": "ParkDiffusion++",
+    "title": "ParkDiffusion++: Ego Intention Conditioned Joint Multi-Agent Trajectory Prediction for Automated Parking using Diffusion Models",
+    "year": 2026,
+    "venue": "arXiv",
+    "category": "motion",
+    "paper_url": "https://arxiv.org/abs/2602.20923",
+    "code_url": ""
+  },
+  {
+    "method": "Leapfrog Diffusion",
+    "title": "",
+    "year": 2023,
+    "venue": "CVPR",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/CVPR52729.2023.00534",
+    "code_url": ""
+  },
+  {
+    "method": "Heteroscedastic Diffusion",
+    "title": "",
+    "year": 2026,
+    "venue": "TPAMI",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/TPAMI.2026.3692903",
+    "code_url": ""
+  },
+  {
+    "method": "VADv2",
+    "title": "",
+    "year": 2026,
+    "venue": "ICLR",
+    "category": "motion",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "Diffusion-ES",
+    "title": "Diffusion-ES: Gradient-Free Planning with Diffusion for Autonomous and Instruction-Guided Driving",
+    "year": 2024,
+    "venue": "CVPR",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/CVPR52733.2024.01453",
+    "code_url": ""
+  },
+  {
+    "method": "DiffusionDrive",
+    "title": "DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.01124",
+    "code_url": ""
+  },
+  {
+    "method": "GoalFlow",
+    "title": "GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving",
+    "year": 2025,
+    "venue": "CVPR",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/CVPR52734.2025.00157",
+    "code_url": ""
+  },
+  {
+    "method": "Diffusion Planner",
+    "title": "",
+    "year": 2025,
+    "venue": "ICLR",
+    "category": "motion",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "GenAD",
+    "title": "GenAD: Generative End-to-End Autonomous Driving",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1007/978-3-031-73650-6_6",
+    "code_url": "https://github.com/wzzheng/GenAD"
+  },
+  {
+    "method": "DriveGPT",
+    "title": "",
+    "year": 2025,
+    "venue": "ICML",
+    "category": "motion",
+    "paper_url": "https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25ak/huang25ak.pdf",
+    "code_url": ""
+  },
+  {
+    "method": "DTPP",
+    "title": "DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving",
+    "year": 2024,
+    "venue": "ICRA",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/ICRA57147.2024.10610550",
+    "code_url": ""
+  },
+  {
+    "method": "GameFormer",
+    "title": "",
+    "year": 2023,
+    "venue": "ICCV",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/ICCV51070.2023.00361",
+    "code_url": ""
+  },
+  {
+    "method": "DrivingGPT",
+    "title": "DrivingGPT: Unifying Driving World Modeling and Planning with Multi-Modal Autoregressive Transformers",
+    "year": 2025,
+    "venue": "ICCV",
+    "category": "motion",
+    "paper_url": "https://doi.org/10.1109/ICCV51701.2025.02496",
+    "code_url": ""
+  },
+  {
+    "method": "Talk2BEV",
+    "title": "Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving",
+    "year": 2024,
+    "venue": "ICRA",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1109/ICRA57147.2024.10611485",
+    "code_url": ""
+  },
+  {
+    "method": "DriveLM",
+    "title": "DriveLM: Driving with Graph Visual Question Answering",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1007/978-3-031-72943-0_15",
+    "code_url": "https://github.com/OpenDriveLab/DriveLM"
+  },
+  {
+    "method": "Reason2Drive",
+    "title": "Reason2Drive: Towards Interpretable and Chain-Based Reasoning for Autonomous Driving",
+    "year": 2025,
+    "venue": "ECCV",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1007/978-3-031-73347-5_17",
+    "code_url": ""
+  },
+  {
+    "method": "LingoQA",
+    "title": "",
+    "year": 2024,
+    "venue": "ECCV",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1007/978-3-031-72980-5_15",
+    "code_url": "https://github.com/wayveai/LingoQA"
+  },
+  {
+    "method": "GPT-Driver",
+    "title": "",
+    "year": 2023,
+    "venue": "arXiv",
+    "category": "vla",
+    "paper_url": "https://arxiv.org/abs/2310.01415",
+    "code_url": ""
+  },
+  {
+    "method": "DriveVLM",
+    "title": "DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models",
+    "year": 2024,
+    "venue": "arXiv",
+    "category": "vla",
+    "paper_url": "https://arxiv.org/abs/2402.12289",
+    "code_url": ""
+  },
+  {
+    "method": "LMDrive",
+    "title": "LMDrive: Closed-Loop End-to-End Driving with Large Language Models",
+    "year": 2024,
+    "venue": "CVPR",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1109/CVPR52733.2024.01432",
+    "code_url": ""
+  },
+  {
+    "method": "VLP",
+    "title": "",
+    "year": 2024,
+    "venue": "CVPR",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1109/CVPR52733.2024.01398",
+    "code_url": ""
+  },
+  {
+    "method": "ORION",
+    "title": "Orion: A Holistic End-To-End Autonomous Driving Framework by Vision-Language Instructed Action Generation",
+    "year": 2025,
+    "venue": "ICCV",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1109/ICCV51701.2025.02302",
+    "code_url": ""
+  },
+  {
+    "method": "AutoVLA",
+    "title": "AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning",
+    "year": 2025,
+    "venue": "NeurIPS",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.52202/085713-0942",
+    "code_url": ""
+  },
+  {
+    "method": "OpenDriveVLA",
+    "title": "OpenDriveVLA: Towards End-to-End Autonomous Driving with Large Vision Language Action Model",
+    "year": 2026,
+    "venue": "AAAI",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1609/aaai.v40i16.38386",
+    "code_url": ""
+  },
+  {
+    "method": "DiLu",
+    "title": "",
+    "year": 2024,
+    "venue": "ICLR",
+    "category": "vla",
+    "paper_url": "",
+    "code_url": ""
+  },
+  {
+    "method": "Agent-Driver",
+    "title": "",
+    "year": 2024,
+    "venue": "arXiv",
+    "category": "vla",
+    "paper_url": "https://arxiv.org/abs/2311.10813",
+    "code_url": ""
+  },
+  {
+    "method": "PlanAgent",
+    "title": "",
+    "year": 2026,
+    "venue": "IEEE Trans. Cognitive and Developmental Systems",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1109/TCDS.2026.3664120",
+    "code_url": ""
+  },
+  {
+    "method": "V2X-VLM",
+    "title": "",
+    "year": 2026,
+    "venue": "Transportation Research Part C: Emerging Technologies",
+    "category": "vla",
+    "paper_url": "https://doi.org/10.1016/j.trc.2025.105457",
+    "code_url": ""
+  },
+  {
+    "method": "DriveWorld-VLA",
+    "title": "DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving",
+    "year": 2026,
+    "venue": "arXiv",
+    "category": "vla",
+    "paper_url": "https://arxiv.org/abs/2602.06521",
+    "code_url": ""
+  },
+  {
+    "method": "World4Drive",
+    "title": "World4Drive: End-to-End Autonomous Driving via Intention-Aware Physical Latent World Model",
+    "year": 2025,
+    "venue": "ICCV",
+    "category": "converge",
+    "paper_url": "https://doi.org/10.1109/ICCV51701.2025.02659",
+    "code_url": ""
+  }
+]
