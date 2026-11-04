@@ -1,4 +1,4 @@
-# Awesome Generative Autonomous Driving Models (GADMs)
+# Generative Autonomous Driving Models (GADMs)
 
 ### A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence
 
