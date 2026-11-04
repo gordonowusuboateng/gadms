@@ -14,3 +14,15 @@
 | DriveArena | Simulation platform | Generative closed-loop driving assessment | [119] |
 
 **Caution:** scores from reactive and non-reactive settings are not directly comparable.
+
+## Publication links from the supplied BibTeX
+
+| Resource / study | Publication |
+| --- | --- |
+| nuPlan | Not supplied |
+| NAVSIM | [DOI](https://doi.org/10.52202/079017-0902) |
+| Bench2Drive | [DOI](https://doi.org/10.52202/079017-0025) |
+| CARLA | Not supplied |
+| WorldScore | Not supplied |
+| DriveArena | [DOI](https://doi.org/10.1109/ICCV51701.2025.02500) |
+| Occ3D | [DOI](https://doi.org/10.52202/075280-2809) |

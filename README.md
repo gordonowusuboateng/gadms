@@ -12,8 +12,11 @@ This repository curates research on **Generative Autonomous Driving Models (GADM
 
 > **Core idea:** Combining models in one architecture does not, by itself, establish convergence. Convergence should be evaluated by whether imagined futures and grounded reasoning *measurably improve driving decisions*.
 
+**Full bibliography:** [Browse all references with DOI/arXiv links](references/bibliography.md) · [Download source BibTeX](references/source-references.bib)
+
 ## Contents
 
+- [Complete bibliography](references/bibliography.md)
 - [Survey overview](#survey-overview)
 - [Research taxonomy](#research-taxonomy)
 - [Functional convergence](#functional-convergence)

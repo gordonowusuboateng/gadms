@@ -1,34 +1,43 @@
 # Generative World Modeling
 
-> Curated from *A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence* (manuscript version, October 2026). Reference numbers correspond to the current paper PDF; official publication/code URLs have not yet been independently verified.
+> Curated from *A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence* (manuscript version, October 2026). Reference numbers correspond to the current paper PDF; links are generated from the author-supplied BibTeX; no external validation is implied.
 
-## Visual world models
-| Method | Primary function | Ref. |
-|---|---|---|
-| GAIA-1 | Video/action-conditioned world prediction | [24] |
-| UniSim | Counterfactual sensor simulation | [49] |
-| Drive-WM | Action-conditioned multi-view video for trajectory evaluation | [8] |
-| GenieDrive | Occupancy-guided video generation | [55] |
-| DriveDreamer | Layout-conditioned driving video generation | [39] |
-| Panacea | Controllable panoramic generation | [51] |
-| Vista | Controllable driving world simulation | [56] |
+> **Links:** DOI links are preferred where the supplied BibTeX includes a DOI; otherwise, an arXiv or supplied publisher/PDF link is used. Some entries lack an official link in the supplied metadata.
 
-## Geometric and occupancy world models
-| Method | Primary function | Ref. |
-|---|---|---|
-| OccWorld | Occupancy and ego-motion prediction | [25] |
-| Drive-OccWorld | Action-conditioned occupancy and flow | [57] |
-| DOME | Generative occupancy world model | [58] |
-| OccSora | Long-horizon 4D occupancy generation | [59] |
-| DIO | Decomposable occupancy/flow | [65] |
-| OccLLaMA | Occupancy-language-action representation | [66] |
+| Study | Year | Venue / status | Publication link |
+| --- | --- | --- | --- |
+| **GAIA-1** | 2023 | Preprint | [Paper](https://arxiv.org/abs/2309.17080) |
+| **UniSim** | 2023 | 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52729.2023.00140) |
+| **Drive-WM** | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01397) |
+| **GenieDrive** | 2026 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not provided |
+| **DriveDreamer** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **Panacea** | 2024 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not provided |
+| **Vista** | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-2906) |
+| **OccWorld** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **Drive-OccWorld** | 2025 | Proceedings of the AAAI Conference on Artificial Intelligence | [DOI](https://doi.org/10.1609/aaai.v39i9.33010) |
+| **DOME** | 2024 | Preprint | [Paper](https://arxiv.org/abs/2410.10429) |
+| **OccSora** | 2026 | IEEE Transactions on Image Processing | [DOI](https://doi.org/10.1109/TIP.2026.3687468) |
+| **DIO** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.02557) |
+| **OccLLaMA** | 2024 | Preprint | [Paper](https://arxiv.org/abs/2409.03272) |
+| **MILE** | 2022 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/068431-1505) |
+| **BEVWorld** | 2025 | Preprint | [Paper](https://arxiv.org/abs/2407.05679) |
+| **TrafficBots** | 2023 | 2023 IEEE International Conference on Robotics and Automation (ICRA) | [DOI](https://doi.org/10.1109/ICRA48891.2023.10161243) |
+| **SceneDiffuser** | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-1771) |
+| **Think2Drive** | 2024 | European Conference on Computer Vision | Not provided |
+| **CarDreamer** | 2025 | IEEE Internet of Things Journal | [DOI](https://doi.org/10.1109/JIOT.2024.3479088) |
+| **DrivingDiffusion** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **WoVoGen** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **DriveScape** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.01602) |
+| **GAIA-2** | 2025 | Preprint | [Paper](https://arxiv.org/abs/2503.20523) |
+| **DynamicCity** | 2025 | International Conference on Learning Representations | Not provided |
+| **UniScene** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.01118) |
+| **SceneDiffuser++** | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-1771) |
+| **DriveGAN** | 2021 | 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR46437.2021.00576) |
+| **DriveWorld** | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01470) |
+| **InstaDrive** | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02357) |
+| **DriveDreamer4D** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.01122) |
+| **Hermes++** | 2026 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2026.3735606) |
 
-## Latent and agent-centric world models
-| Method | Primary function | Ref. |
-|---|---|---|
-| MILE | Model-based imitation learning in a latent world | [60] |
-| BEVWorld | Multimodal BEV latent prediction | [61] |
-| TrafficBots | Agent-centric interactive simulation | [62] |
-| SceneDiffuser | Scene initialization and rollout | [63] |
-| Think2Drive | Reinforcement learning with latent imagination | [69] |
-| CarDreamer | Open-source world-model learning platform | [70] |
+**Classification note:** Categories follow the survey’s functional taxonomy. Inclusion does not establish causal correctness or closed-loop safety.
+
+See [complete supplied bibliography](../references/bibliography.md) for full paper titles and reference keys.

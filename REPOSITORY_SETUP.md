@@ -1,12 +1,7 @@
-# Set up the research-only GitHub repository
+# Upload instructions
 
-Repository: https://github.com/gordonowusuboateng/generative-autonomous-driving-models
-
-1. Open the ZIP and extract the files onto your computer.
-2. Upload `README.md`, `CONTRIBUTING.md`, `papers/`, `resources/`, and `assets/` into the **repository root**. Preserve the folder paths. The `assets/taxonomy-framework.png` file is already on GitHub and is not necessary to re-upload.
-3. Replace the existing root `README.md` with this new one.
-4. Delete `index.html` and `style.css` from the repo if you no longer want the project website. GitHub can still serve the repository README as its front page without any Pages deployment.
-5. Disable GitHub Pages under Settings > Pages if previously enabled.
-6. Verify all links in the README open the corresponding markdown files.
-
-Do not upload the ZIP as a single file expecting GitHub to unpack it. This is a research-only repository, not a website project.
+1. Extract this ZIP.
+2. In your GitHub repository, upload the **extracted** `papers/`, `resources/`, `references/`, `README.md`, and `CONTRIBUTING.md` while preserving the folder paths.
+3. Commit to `main`. Do not upload only the ZIP; GitHub does not extract archives.
+4. This is a research repository only. The previous `index.html` and `style.css` from the deleted website concept may be removed; GitHub Pages is not required.
+5. No third-party code links or DOI records were guessed. Links in this archive originate from your BibTeX metadata and should be verified where bibliographic correctness matters.

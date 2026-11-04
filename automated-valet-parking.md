@@ -13,3 +13,12 @@ AVP is treated as the last-mile extension of driving and a demanding test for in
 
 ## Evaluation considerations
 Parking success rate, final position/orientation error, clearance, maneuver count, completion time, safety interventions, and performance under occlusion and reversing.
+
+## Publication links from the supplied BibTeX
+
+| Resource / study | Publication |
+| --- | --- |
+| ParkDiffusion | [DOI](https://doi.org/10.1109/IROS60139.2025.11246467) |
+| ParkDiffusion++ | [DOI](https://doi.org/10.1109/IROS60139.2025.11246467) |
+| Automated Valet Parking Trajectory Planning | [DOI](https://doi.org/10.1109/OJITS.2026.3658779) |
+| The future of parking | [DOI](https://doi.org/10.1109/IVS.2017.7995971) |

@@ -16,3 +16,16 @@ Datasets supply observations and annotations; benchmarks specify evaluation task
 | LingoQA | Driving video questions and answers | [91] |
 
 **Link verification pending.** Official terms and licenses must be respected.
+
+## Publication links from the supplied BibTeX
+
+| Resource / study | Publication |
+| --- | --- |
+| nuScenes | [DOI](https://doi.org/10.1109/CVPR42600.2020.01164) |
+| PandaSet | [DOI](https://doi.org/10.1109/ITSC48978.2021.9565009) |
+| Occ3D | [DOI](https://doi.org/10.52202/075280-2809) |
+| Argoverse 2 | [Paper](https://arxiv.org/abs/2301.00493) |
+| nuScenes-QA | [DOI](https://doi.org/10.1609/aaai.v38i5.28253) |
+| Waymo Open Motion Dataset | Not supplied |
+| ONCE Dataset | [Paper](https://arxiv.org/abs/2106.11037) |
+| BDD100K | [DOI](https://doi.org/10.1109/CVPR42600.2020.00271) |
