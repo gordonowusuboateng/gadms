@@ -1,19 +1,22 @@
-# Fix paper navigation links in the GADMs repository
+# How to apply this repository update
 
-The live repository stores the paper and bibliography files at the ROOT, not in papers/, resources/, references/.
+This package contains:
+- `README.md` — updated GitHub homepage with expanded bibliography-style paper entries.
+- `assets/manuscript-figures/` — extracted figures from the survey manuscript.
 
-1. Extract this ZIP.
-2. Open https://github.com/gordonowusuboateng/generative-autonomous-driving-models
-3. Click **Add file > Upload files**.
-4. Upload all the extracted `.md` files from this folder to the repository root. **Do not upload the ZIP itself.**
-5. Choose to replace existing files when prompted and commit.
-6. Test the links under Research taxonomy and Full bibliography in README.
+## Recommended upload steps
 
-Fixes included:
-- README links now use root file paths.
-- Research collection bottom bibliography links now point to root bibliography.md.
-- ParkDiffusion++ now links to its supplied 2026 arXiv preprint, rather than ParkDiffusion DOI.
-- SceneDiffuser++ now links to its own 2025 CVPR DOI, rather than SceneDiffuser DOI.
-- Some ECCV proceedings entries now use the Springer DOI already encoded in the supplied BibTeX keys.
+1. Open your repository root on GitHub:
+   `https://github.com/gordonowusuboateng/generative-autonomous-driving-models`
+2. Replace the existing `README.md` with the one in this package.
+3. Create the folder `assets/manuscript-figures/` in the repository if it does not already exist.
+4. Upload all six PNG figure files into that folder.
+5. Commit the changes.
 
-These files retain the repository's current root-level structure. No need to create a website or move folders.
+## Included manuscript figures
+- Figure 1: Transition from deterministic autonomous driving to GAD
+- Figure 2: Function-oriented taxonomy and conceptual closed-loop process
+- Figure 3: Taxonomy of generative world models
+- Figure 4: Taxonomy of generative trajectory and motion planning
+- Figure 5: Taxonomy of VLA intelligence
+- Figure 6: Illustration of action sensitivity and consequence-aware motion selection
