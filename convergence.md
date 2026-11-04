@@ -31,4 +31,4 @@ Illustrative methods motivate each property but may not fully validate it. Verif
 
 **Classification note:** Categories follow the survey’s functional taxonomy. Inclusion does not establish causal correctness or closed-loop safety.
 
-See [complete supplied bibliography](../references/bibliography.md) for full paper titles and reference keys.
+See [complete supplied bibliography](bibliography.md) for full paper titles and reference keys.

@@ -12,11 +12,11 @@ This repository curates research on **Generative Autonomous Driving Models (GADM
 
 > **Core idea:** Combining models in one architecture does not, by itself, establish convergence. Convergence should be evaluated by whether imagined futures and grounded reasoning *measurably improve driving decisions*.
 
-**Full bibliography:** [Browse all references with DOI/arXiv links](references/bibliography.md) · [Download source BibTeX](references/source-references.bib)
+**Full bibliography:** [Browse all references with DOI/arXiv links](bibliography.md) · [Download source BibTeX](source-references.bib)
 
 ## Contents
 
-- [Complete bibliography](references/bibliography.md)
+- [Complete bibliography](bibliography.md)
 - [Survey overview](#survey-overview)
 - [Research taxonomy](#research-taxonomy)
 - [Functional convergence](#functional-convergence)
@@ -43,9 +43,9 @@ This is a functional abstraction, not a required architecture implemented by eve
 
 | Direction | Main research questions | Curated papers |
 | --- | --- | --- |
-| **Generative world modeling** | How can future driving scenes, geometry, occupancy, and agent interactions be generated—especially under candidate ego actions? | [World modeling](papers/world-modeling.md) |
-| **Generative trajectory and motion planning** | How are diverse, dynamically feasible, interaction-aware trajectories generated, evaluated, and selected? | [Trajectory and motion](papers/trajectory-motion.md) |
-| **VLA intelligence** | How do multimodal perception and semantic reasoning influence executable driving actions? | [VLA intelligence](papers/vla-intelligence.md) |
+| **Generative world modeling** | How can future driving scenes, geometry, occupancy, and agent interactions be generated—especially under candidate ego actions? | [World modeling](world-modeling.md) |
+| **Generative trajectory and motion planning** | How are diverse, dynamically feasible, interaction-aware trajectories generated, evaluated, and selected? | [Trajectory and motion](trajectory-motion.md) |
+| **VLA intelligence** | How do multimodal perception and semantic reasoning influence executable driving actions? | [VLA intelligence](vla-intelligence.md) |
 
 Research directions overlap: studies can appear in more than one collection when their capabilities cross functional boundaries.
 
@@ -60,21 +60,21 @@ Our survey identifies four complementary properties:
 | **Consequence-aware action selection** | Predicted outcomes help evaluate and choose candidate motions. |
 | **Closed-loop adaptation** | New observations and execution feedback influence subsequent decisions. |
 
-See the [convergence collection](papers/convergence.md) for illustrative methods, interfaces, and evaluation requirements. **Inclusion in a collection does not imply that a paper empirically demonstrates all four properties.**
+See the [convergence collection](convergence.md) for illustrative methods, interfaces, and evaluation requirements. **Inclusion in a collection does not imply that a paper empirically demonstrates all four properties.**
 
 ## Datasets, benchmarks, and metrics
 
 Datasets contain observations and annotations; benchmarks specify tasks, metrics, and evaluation procedures; simulators provide environments in which tasks can be run. We curate these separately:
 
-- [Datasets](resources/datasets.md)
-- [Benchmarks and simulation platforms](resources/benchmarks.md)
-- [Evaluation metrics](resources/evaluation-metrics.md)
+- [Datasets](datasets.md)
+- [Benchmarks and simulation platforms](benchmarks.md)
+- [Evaluation metrics](evaluation-metrics.md)
 
 Evaluations should distinguish **generative fidelity**, **decision utility**, **closed-loop safety**, and **computational efficiency**.
 
 ## Automated valet parking
 
-[Automated valet parking (AVP)](resources/automated-valet-parking.md) is considered a demanding last-mile application of GADMs, requiring accurate scene geometry, low-speed interaction modeling, tight-clearance motion, and reliable safety verification.
+[Automated valet parking (AVP)](automated-valet-parking.md) is considered a demanding last-mile application of GADMs, requiring accurate scene geometry, low-speed interaction modeling, tight-clearance motion, and reliable safety verification.
 
 ## Contributing
 

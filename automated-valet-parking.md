@@ -19,6 +19,6 @@ Parking success rate, final position/orientation error, clearance, maneuver coun
 | Resource / study | Publication |
 | --- | --- |
 | ParkDiffusion | [DOI](https://doi.org/10.1109/IROS60139.2025.11246467) |
-| ParkDiffusion++ | [DOI](https://doi.org/10.1109/IROS60139.2025.11246467) |
+| ParkDiffusion++ | [arXiv](https://arxiv.org/abs/2602.20923) |
 | Automated Valet Parking Trajectory Planning | [DOI](https://doi.org/10.1109/OJITS.2026.3658779) |
 | The future of parking | [DOI](https://doi.org/10.1109/IVS.2017.7995971) |

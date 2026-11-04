@@ -15,7 +15,7 @@ This directory lists all parsed references from the supplied BibTeX file. **DOI 
 | Orion: A Holistic End-To-End Autonomous Driving Framework by Vision-Language Instructed Action Generation | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02302) | `11445650` |
 | LMDrive: Closed-Loop End-to-End Driving with Large Language Models | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01432) | `10657019` |
 | GAIA-1: A Generative World Model for Autonomous Driving | 2023 | Preprint/other | [Paper](https://arxiv.org/abs/2309.17080) | `hu2023gaia1generativeworldmodel` |
-| OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-72624-8_4` |
+| OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72624-8_4) | `10.1007/978-3-031-72624-8_4` |
 | Generative AI for Autonomous Driving: A Review | 2025 | Preprint/other | [Paper](https://arxiv.org/abs/2505.15863) | `winter2025generativeaiautonomousdriving` |
 | A Survey on Vision-Language-Action Models for Autonomous Driving | 2025 | Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops | Not supplied | `Jiang_2025_ICCV` |
 | A Survey on Vision--Language--Action Models for Embodied AI | 2026 | IEEE Transactions on Neural Networks and Learning Systems | [DOI](https://doi.org/10.1109/TNNLS.2025.3650584) | `11495231` |
@@ -44,10 +44,10 @@ This directory lists all parsed references from the supplied BibTeX file. **DOI 
 | Differentiable Integrated Motion Prediction and Planning With Learnable Cost Function for Autonomous Driving | 2024 | IEEE Transactions on Neural Networks and Learning Systems | [DOI](https://doi.org/10.1109/TNNLS.2023.3283542) | `10154577` |
 | Reinforced Refinement With Self-Aware Expansion for End-to-End Autonomous Driving | 2026 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2026.3653866) | `11353028` |
 | DriveGAN: Towards a Controllable High-Quality Neural Simulation | 2021 | 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR46437.2021.00576) | `9577589` |
-| DriveDreamer: Towards Real-World-Drive World Models for Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-73195-2_4` |
-| DrivingDiffusion: Layout-Guided Multi-view Driving Scenarios Video Generation with Latent Diffusion Model | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-73229-4_27` |
+| DriveDreamer: Towards Real-World-Drive World Models for Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73195-2_4) | `10.1007/978-3-031-73195-2_4` |
+| DrivingDiffusion: Layout-Guided Multi-view Driving Scenarios Video Generation with Latent Diffusion Model | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73229-4_27) | `10.1007/978-3-031-73229-4_27` |
 | Panacea: Panoramic and Controllable Video Generation for Autonomous Driving | 2024 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not supplied | `Wen_2024_CVPR` |
-| WoVoGen: World Volume-Aware Diffusion for Controllable Multi-camera Driving Scene Generation | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-72989-8_19` |
+| WoVoGen: World Volume-Aware Diffusion for Controllable Multi-camera Driving Scene Generation | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72989-8_19) | `10.1007/978-3-031-72989-8_19` |
 | DriveScape: High-Resolution Driving Video Generation by Multi-View Feature Fusion | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.01602) | `11093066` |
 | GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving | 2025 | Preprint/other | [Paper](https://arxiv.org/abs/2503.20523) | `russell2025gaia2controllablemultiviewgenerative` |
 | GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation | 2026 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not supplied | `Yang_2026_CVPR` |
@@ -68,7 +68,7 @@ This directory lists all parsed references from the supplied BibTeX file. **DOI 
 | SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.00154) | `11094747` |
 | BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents | 2025 | Preprint/other | [Paper](https://arxiv.org/abs/2407.05679) | `zhang2025bevworldmultimodalworldsimulator` |
 | UniSim: A Neural Closed-Loop Sensor Simulator | 2023 | 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52729.2023.00140) | `10204923` |
-| Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data | 2020 | Computer Vision -- ECCV 2020 | Not supplied | `10.1007/978-3-030-58523-5_40` |
+| Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data | 2020 | Computer Vision -- ECCV 2020 | [DOI](https://doi.org/10.1007/978-3-030-58523-5_40) | `10.1007/978-3-030-58523-5_40` |
 | MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction | 2022 | 2022 International Conference on Robotics and Automation (ICRA) | [DOI](https://doi.org/10.1109/ICRA46639.2022.9812107) | `9812107` |
 | Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion | 2022 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52688.2022.01660) | `9878855` |
 | MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion | 2023 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not supplied | `Jiang_2023_CVPR` |
@@ -81,13 +81,13 @@ This directory lists all parsed references from the supplied BibTeX file. **DOI 
 | Diffusion-ES: Gradient-Free Planning with Diffusion for Autonomous and Instruction-Guided Driving | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01453) | `10657485` |
 | Diffusion-Based Planning for Autonomous Driving with Flexible Guidance | 2025 | International Conference on Learning Representations | Not supplied | `ICLR2025_5c0cd430` |
 | Planning-oriented Autonomous Driving | 2023 | 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52729.2023.01712) | `10205112` |
-| GenAD: Generative End-to-End Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-73650-6_6` |
+| GenAD: Generative End-to-End Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73650-6_6) | `10.1007/978-3-031-73650-6_6` |
 | GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving | 2023 | 2023 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51070.2023.00361) | `10377193` |
 | DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | [DOI](https://doi.org/10.1109/ICRA57147.2024.10610550) | `10610550` |
 | Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | [DOI](https://doi.org/10.1109/ICRA57147.2024.10611485) | `10611485` |
-| DriveLM: Driving with Graph Visual Question Answering | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-72943-0_15` |
-| Reason2Drive: Towards Interpretable and Chain-Based Reasoning for Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-73347-5_17` |
-| LingoQA: Visual Question Answering for Autonomous Driving | 2024 | Computer Vision -- ECCV 2024 | Not supplied | `10.1007/978-3-031-72980-5_15` |
+| DriveLM: Driving with Graph Visual Question Answering | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72943-0_15) | `10.1007/978-3-031-72943-0_15` |
+| Reason2Drive: Towards Interpretable and Chain-Based Reasoning for Autonomous Driving | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73347-5_17) | `10.1007/978-3-031-73347-5_17` |
+| LingoQA: Visual Question Answering for Autonomous Driving | 2024 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72980-5_15) | `10.1007/978-3-031-72980-5_15` |
 | GPT-Driver: Learning to Drive with GPT | 2023 | Preprint/other | [Paper](https://arxiv.org/abs/2310.01415) | `mao2023gptdriverlearningdrivegpt` |
 | VLP: Vision Language Planning for Autonomous Driving | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01398) | `10658060` |
 | AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning | 2025 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/085713-0942) | `NEURIPS2025_2843fccc` |

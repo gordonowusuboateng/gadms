@@ -10,10 +10,10 @@
 | **UniSim** | 2023 | 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52729.2023.00140) |
 | **Drive-WM** | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01397) |
 | **GenieDrive** | 2026 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not provided |
-| **DriveDreamer** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **DriveDreamer** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73195-2_4) |
 | **Panacea** | 2024 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | Not provided |
 | **Vista** | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-2906) |
-| **OccWorld** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **OccWorld** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72624-8_4) |
 | **Drive-OccWorld** | 2025 | Proceedings of the AAAI Conference on Artificial Intelligence | [DOI](https://doi.org/10.1609/aaai.v39i9.33010) |
 | **DOME** | 2024 | Preprint | [Paper](https://arxiv.org/abs/2410.10429) |
 | **OccSora** | 2026 | IEEE Transactions on Image Processing | [DOI](https://doi.org/10.1109/TIP.2026.3687468) |
@@ -25,13 +25,13 @@
 | **SceneDiffuser** | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-1771) |
 | **Think2Drive** | 2024 | European Conference on Computer Vision | Not provided |
 | **CarDreamer** | 2025 | IEEE Internet of Things Journal | [DOI](https://doi.org/10.1109/JIOT.2024.3479088) |
-| **DrivingDiffusion** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
-| **WoVoGen** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **DrivingDiffusion** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73229-4_27) |
+| **WoVoGen** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72989-8_19) |
 | **DriveScape** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.01602) |
 | **GAIA-2** | 2025 | Preprint | [Paper](https://arxiv.org/abs/2503.20523) |
 | **DynamicCity** | 2025 | International Conference on Learning Representations | Not provided |
 | **UniScene** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.01118) |
-| **SceneDiffuser++** | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-1771) |
+| **SceneDiffuser++** | 2025 | 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52734.2025.00154) |
 | **DriveGAN** | 2021 | 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR46437.2021.00576) |
 | **DriveWorld** | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01470) |
 | **InstaDrive** | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02357) |
@@ -40,4 +40,4 @@
 
 **Classification note:** Categories follow the survey’s functional taxonomy. Inclusion does not establish causal correctness or closed-loop safety.
 
-See [complete supplied bibliography](../references/bibliography.md) for full paper titles and reference keys.
+See [complete supplied bibliography](bibliography.md) for full paper titles and reference keys.

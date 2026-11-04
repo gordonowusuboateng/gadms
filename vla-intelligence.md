@@ -7,9 +7,9 @@
 | Study | Year | Venue / status | Publication link |
 | --- | --- | --- | --- |
 | **Talk2BEV** | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | [DOI](https://doi.org/10.1109/ICRA57147.2024.10611485) |
-| **DriveLM** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
-| **Reason2Drive** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
-| **LingoQA** | 2024 | Computer Vision -- ECCV 2024 | Not provided |
+| **DriveLM** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72943-0_15) |
+| **Reason2Drive** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73347-5_17) |
+| **LingoQA** | 2024 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-72980-5_15) |
 | **GPT-Driver** | 2023 | Preprint | [Paper](https://arxiv.org/abs/2310.01415) |
 | **LMDrive** | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01432) |
 | **VLP** | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01398) |
@@ -26,4 +26,4 @@
 
 **Classification note:** Categories follow the survey’s functional taxonomy. Inclusion does not establish causal correctness or closed-loop safety.
 
-See [complete supplied bibliography](../references/bibliography.md) for full paper titles and reference keys.
+See [complete supplied bibliography](bibliography.md) for full paper titles and reference keys.
