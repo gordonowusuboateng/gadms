@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Project page for A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence." />
+  <title>GADMs Survey | Foundations, Taxonomy, and Convergence</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="masthead"><div class="container nav">
+    <a class="site-name" href="#top">GADMs Survey</a>
+    <nav aria-label="Main navigation"><a href="#overview">Overview</a><a href="#abstract">Abstract</a><a href="#taxonomy">Taxonomy</a><a href="#citation">Citation</a></nav>
+  </div></header>
+
+  <main id="top">
+    <section class="hero container">
+      <p class="eyebrow">SURVEY PROJECT PAGE · 2026</p>
+      <h1>A Survey on Generative Autonomous Driving Models:<br><span>Foundations, Taxonomy, and Convergence</span></h1>
+      <div class="authors">
+        <span>Gordon Owusu Boateng</span><span>Qian Dong</span><span>Dongyao Jia</span><span>Xiansheng Guo</span><span>Azzam Mourad</span><span>Nirwan Ansari</span>
+      </div>
+      <p class="institutions">Xi’an Jiaotong-Liverpool University &nbsp;·&nbsp; University of Electronic Science and Technology of China &nbsp;·&nbsp; Khalifa University &nbsp;·&nbsp; New Jersey Institute of Technology</p>
+      <div class="links"><a class="button primary" href="https://github.com/gordonowusuboateng/ams-generative-autonomous-driving-models" target="_blank" rel="noopener noreferrer">GitHub Repository ↗</a><span class="button muted" title="A public manuscript URL has not yet been provided">Paper PDF · Coming soon</span></div>
+      <p class="notice">A companion page to the survey manuscript. Public paper and publication links will be added when available.</p>
+    </section>
+
+    <section id="overview" class="section container">
+      <div class="section-title"><p class="eyebrow">OVERVIEW</p><h2>A unified view of generative autonomous driving</h2></div>
+      <p class="lead">This survey connects <strong>generative world modeling</strong>, <strong>generative trajectory and motion planning</strong>, and <strong>vision-language-action (VLA) intelligence</strong> through their roles in closed-loop driving decisions.</p>
+      <figure class="main-figure"><img src="assets/taxonomy-framework.png" alt="Figure 2 from the survey illustrating the function-oriented taxonomy of world modeling, trajectory generation and VLA intelligence alongside the six-stage closed-loop GADM process" /><figcaption>Function-oriented taxonomy and conceptual closed-loop process of GADMs (Fig. 2 in the survey).</figcaption></figure>
+    </section>
+
+    <section id="abstract" class="section tint"><div class="container narrow">
+      <div class="section-title"><p class="eyebrow">PAPER SUMMARY</p><h2>Abstract</h2></div>
+      <p>Generative models are advancing autonomous driving by enabling the generation of plausible future scenarios, interactive environment representations, and diverse motion trajectories, while supporting multimodal reasoning and action generation. However, existing surveys remain fragmented across generative world modeling, trajectory generation, and Vision-Language-Action (VLA) intelligence, seldom examining their interfaces, functional convergence, and implications for closed-loop driving safety. This survey provides a unified perspective on Generative Autonomous Driving Models (GADMs) by systematically examining three research directions: generative world modeling, generative trajectory and motion planning, and VLA intelligence. We first establish the foundations and taxonomy of GADMs and introduce a conceptual closed-loop framework that connects observation, imagination, reasoning, motion generation, action, and learning. Then, representative studies are reviewed in terms of their generative mechanisms, key inputs, generated outputs, and interfaces with downstream driving functions. Automated Valet Parking (AVP) is considered the last-mile extension of autonomous driving and a challenging application setting for GADMs. Beyond examining these directions individually, we identify four complementary properties that characterize their emerging convergence as action sensitivity, semantic-geometric consistency, consequence-aware action selection, and closed-loop adaptation. We further synthesize datasets, benchmarks, and evaluation metrics relevant for GADMs and their functional convergence. Finally, we identify open challenges and future research directions toward unified and converging GADMs.</p>
+    </div></section>
+
+    <section id="taxonomy" class="section container">
+      <div class="section-title"><p class="eyebrow">RESEARCH SCOPE</p><h2>Three complementary directions</h2></div>
+      <div class="three-col"><article><span class="num">01</span><h3>Generative World Modeling</h3><p>Video, geometric and occupancy, latent and agent-centric world representations for future prediction and interactive simulation.</p></article><article><span class="num">02</span><h3>Generative Trajectory and Motion Planning</h3><p>Multimodal forecasting, ego-motion generation, and joint prediction-planning with candidate-action evaluation.</p></article><article><span class="num">03</span><h3>VLA Intelligence</h3><p>Semantic grounding, language-conditioned trajectories and actions, and agentic or cooperative closed-loop reasoning.</p></article></div>
+      <div class="section-title extra"><p class="eyebrow">FUNCTIONAL CONVERGENCE</p><h2>When generative capabilities improve driving decisions</h2></div>
+      <p class="lead small">Sharing a backbone does not establish convergence. The survey examines whether generated futures and reasoning measurably influence downstream driving behavior.</p>
+      <div class="properties"><div><strong>Action sensitivity</strong><p>Futures respond to candidate ego actions.</p></div><div><strong>Semantic–geometric consistency</strong><p>Semantic intentions remain grounded in geometry and dynamics.</p></div><div><strong>Consequence-aware action selection</strong><p>Predicted outcomes guide motion choice.</p></div><div><strong>Closed-loop adaptation</strong><p>New observations and feedback inform subsequent decisions.</p></div></div>
+    </section>
+
+    <section class="section tint"><div class="container narrow"><div class="section-title"><p class="eyebrow">APPLICATION & RESOURCES</p><h2>AVP, datasets, and benchmarks</h2></div><p>The survey also considers Automated Valet Parking (AVP) as a demanding last-mile application and discusses datasets, benchmarks, and metrics for evaluating generative quality, planning utility, safety, and closed-loop performance.</p><p class="support"><a href="https://github.com/gordonowusuboateng/ams-generative-autonomous-driving-models" target="_blank" rel="noopener noreferrer">Explore the accompanying GitHub repository ↗</a></p></div></section>
+
+    <section id="citation" class="section container narrow"><div class="section-title"><p class="eyebrow">REFERENCE</p><h2>Citation</h2></div><p>Please cite the survey when using this resource. A formal bibliographic record will be added once the manuscript is publicly available.</p><pre><code>@misc{boateng2026gadms,
+  title  = {A Survey on Generative Autonomous Driving Models:
+            Foundations, Taxonomy, and Convergence},
+  author = {Boateng, Gordon Owusu and Dong, Qian and
+            Jia, Dongyao and Guo, Xiansheng and
+            Mourad, Azzam and Ansari, Nirwan},
+  year   = {2026},
+  note   = {Manuscript}
+}</code></pre><p class="note">Provisional citation only; not a claim of journal acceptance or publication.</p></section>
+  </main>
+  <footer><div class="container footer-inner"><span>© 2026 GADMs Survey · Research project page</span><a href="https://github.com/gordonowusuboateng/ams-generative-autonomous-driving-models">GitHub ↗</a></div></footer>
+</body>
+</html>
