@@ -73,8 +73,6 @@ Selected **2026 related work**.
 
 *Fig. 2. Function-oriented taxonomy and closed-loop process of GADMs. Imagination, Reasoning, and Motion Generation correspond broadly to generative world modeling, VLA intelligence, and generative trajectory and motion planning, respectively, while Observation, Action, and Learning represent shared system-level functions.*
 
-The six-stage process is a **functional conceptual abstraction**.
-
 | Research direction | Key questions | Detailed collection |
 | :--- | :--- | :--- |
 | **Generative world modeling** | What futures can the model generate, and how do candidate actions affect them? | [World modeling](world-modeling.md) |
@@ -85,7 +83,7 @@ The six-stage process is a **functional conceptual abstraction**.
 
 ## Paper collections
 
-**Reading guide:** Each item lists a method, title where available, venue/year, and **[Paper]** (DOI or arXiv). **[Code]** is shown only where the supplied bibliography identifies an official repository. A missing link means it has not yet been supplied or verified, not that the publication or code is unavailable. Some works appear in multiple directions where research scopes overlap.
+**Reading guide:** Each item lists a method, title where available, venue/year, and **[Paper]** (DOI or arXiv). **[Code]** is shown only where the authors identify an official repository. Some works appear in multiple directions where research scopes overlap.
 
 ## Generative world modeling
 
