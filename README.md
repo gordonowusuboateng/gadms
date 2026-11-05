@@ -4,9 +4,18 @@
 
 [![Stars](https://img.shields.io/github/stars/gordonowusuboateng/gadms?style=social)](https://github.com/gordonowusuboateng/gadms/stargazers) [![Issues](https://img.shields.io/github/issues/gordonowusuboateng/gadms)](https://github.com/gordonowusuboateng/gadms/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/gordonowusuboateng/gadms)](https://github.com/gordonowusuboateng/gadms/pulls) [![Last commit](https://img.shields.io/github/last-commit/gordonowusuboateng/gadms)](https://github.com/gordonowusuboateng/gadms/commits/main)
 
-**Gordon Owusu Boateng**, Qian Dong, Dongyao Jia, Xiansheng Guo, Azzam Mourad, and Nirwan Ansari
 
-> 📚 The curated companion repository for the survey **A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence** (2026 manuscript). It brings together generative world models, trajectory and motion generation, and vision-language-action (VLA) intelligence for autonomous driving and automated valet parking.
+**Gordon Owusu Boateng<sup>1</sup>, Qian Dong<sup>1</sup>, Dongyao Jia<sup>1</sup>, Xiansheng Guo<sup>2</sup>, Azzam Mourad<sup>3</sup>, Nirwan Ansari<sup>4</sup>**
+
+1. Academy of AI and Advanced Technology, Xi'an Jiaotong-Liverpool University, Suzhou, 215123, China.
+2. School of Information and Communication Engineering, University of Electronic Science and Technology of China, Chengdu, 611731, China.
+3. Department of Computer Science, Khalifa University, Abu Dhabi, UAE.
+4. Advanced Networking Lab, Department of Electrical and Computer Engineering, New Jersey Institute of Technology, Newark, NJ 07102, USA.
+
+**Corresponding author:** Gordon Owusu Boateng ([Gordon.Boateng@xjtlu.edu.cn](mailto:Gordon.Boateng@xjtlu.edu.cn))
+
+
+📚 This repository serves as the curated research companion to **A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence**. It provides a systematically organized collection of research papers, datasets, benchmarks, and evaluation resources spanning three interconnected directions: **generative world modeling**, **generative trajectory and motion planning**, and **Vision-Language-Action (VLA) intelligence**. Beyond cataloging existing studies, the repository highlights their emerging functional convergence toward unified, intelligent, and closed-loop autonomous driving systems, including applications to **Automated Valet Parking (AVP)**. The collection will be updated to reflect new developments and emerging research directions.
 
 **[Browse papers](#paper-collections)** · **[Datasets & benchmarks](#datasets-benchmarks-and-evaluation)** · **[Full bibliography](bibliography.md)** · **[Download BibTeX](source-references.bib)** · **[Contribute a paper](CONTRIBUTING.md)**
 
