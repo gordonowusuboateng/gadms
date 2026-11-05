@@ -31,6 +31,12 @@
 
 Generative Autonomous Driving Models (GADMs) can generate future scenes, occupancy, interacting agent trajectories, and driving actions. This survey organizes the literature into **three interrelated research directions** and studies when their interaction leads to meaningful **functional convergence** in autonomous driving.
 
+<p align="center">
+  <img src="assets/manuscript-figures/fig1-transition-gad.png" alt="Figure 1: Transition from deterministic autonomous driving to generative autonomous driving" width="760" />
+</p>
+
+*Fig. 1. Transition from deterministic autonomous driving to generative autonomous driving, highlighting alternative future generation and consequence-aware decisions.*
+
 **Key principle:** Sharing model backbones or features does not itself establish convergence. Generated futures and grounded reasoning must measurably influence closed-loop action selection, adaptation, or safety.
 
 ## Latest additions and 2026 highlights
@@ -50,7 +56,7 @@ Selected **2026 works from the supplied bibliography** (not a claim of weekly or
 
 <p align="center"><img src="assets/manuscript-figures/fig2-taxonomy-framework.png" alt="GADM function-oriented taxonomy and conceptual closed-loop framework" width="900" /></p>
 
-*Function-oriented taxonomy and conceptual closed-loop process (survey Fig. 2).*
+*Fig. 2. Function-oriented taxonomy and conceptual closed-loop GADM framework.*
 
 **Observation → Imagination → Reasoning → Motion Generation → Action → Learning**
 
@@ -63,30 +69,18 @@ The six-stage process is a **functional abstraction**, not an architecture purpo
 | **VLA intelligence** | How do language and grounded semantic reasoning influence driving actions? | [VLA intelligence](vla-intelligence.md) |
 
 
-## Figures from the manuscript
-
-The repository includes extracted figures from the current survey manuscript under `assets/manuscript-figures/`.
-
-<p align="center">
-  <img src="assets/manuscript-figures/fig1-transition-gad.png" alt="Figure 1" width="420" />
-  <img src="assets/manuscript-figures/fig2-taxonomy-framework.png" alt="Figure 2" width="420" />
-</p>
-<p align="center">
-  <img src="assets/manuscript-figures/fig3-world-modeling-taxonomy.png" alt="Figure 3" width="420" />
-  <img src="assets/manuscript-figures/fig4-trajectory-motion-taxonomy.png" alt="Figure 4" width="420" />
-</p>
-<p align="center">
-  <img src="assets/manuscript-figures/fig5-vla-taxonomy.png" alt="Figure 5" width="420" />
-  <img src="assets/manuscript-figures/fig6-convergence-illustration.png" alt="Figure 6" width="420" />
-</p>
-
-**Included files:** `fig1-transition-gad.png`, `fig2-taxonomy-framework.png`, `fig3-world-modeling-taxonomy.png`, `fig4-trajectory-motion-taxonomy.png`, `fig5-vla-taxonomy.png`, and `fig6-convergence-illustration.png`.
 
 ## Paper collections
 
 **Reading guide:** Each item lists a method, title where available, venue/year, and **[Paper]** (DOI or arXiv). **[Code]** is shown only where the supplied bibliography identifies an official repository. A missing link means it has not yet been supplied or verified, not that the publication or code is unavailable. Some works appear in multiple directions where research scopes overlap.
 
 ## Generative world modeling
+
+<p align="center">
+  <img src="assets/manuscript-figures/fig3-world-modeling-taxonomy.png" alt="Figure 3: Taxonomy of generative world models" width="840" />
+</p>
+
+*Fig. 3. Taxonomy of visual, geometric and occupancy, and latent and agent-centric generative world models.*
 
 ### Visual and video world modeling
 
@@ -132,6 +126,12 @@ The repository includes extracted figures from the current survey manuscript und
 
 ## Generative trajectory and motion planning
 
+<p align="center">
+  <img src="assets/manuscript-figures/fig4-trajectory-motion-taxonomy.png" alt="Figure 4: Taxonomy of generative trajectory and motion planning" width="840" />
+</p>
+
+*Fig. 4. Taxonomy of multimodal trajectory generation, generative ego-motion planning, and joint prediction and interactive planning.*
+
 ### Multimodal agent trajectory prediction
 
 - **DESIRE** — Lee, Namhoon, Wongun Choi, Paul Vernaza, Christopher Bongsoo Choy, Philip Torr, and Manmohan Chandraker. “DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents.” In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2017.
@@ -164,6 +164,12 @@ The repository includes extracted figures from the current survey manuscript und
 **More detail:** [Generative trajectory and motion planning collection](trajectory-motion.md).
 
 ## Vision-language-action intelligence
+
+<p align="center">
+  <img src="assets/manuscript-figures/fig5-vla-taxonomy.png" alt="Figure 5: Taxonomy of vision-language-action intelligence" width="840" />
+</p>
+
+*Fig. 5. Taxonomy of semantic grounding and reasoning, language-conditioned motion generation, and agentic, closed-loop, and cooperative VLA intelligence.*
 
 ### Semantic grounding and driving reasoning
 
@@ -201,6 +207,12 @@ The repository includes extracted figures from the current survey manuscript und
 | **Semantic–geometric consistency** | Are language-level intentions grounded in scene geometry and dynamics? |
 | **Consequence-aware action selection** | Do predicted consequences change the chosen action? |
 | **Closed-loop adaptation** | Does execution feedback influence the next decision? |
+
+<p align="center">
+  <img src="assets/manuscript-figures/fig6-convergence-illustration.png" alt="Figure 6: Action sensitivity and consequence-aware motion selection" width="840" />
+</p>
+
+*Fig. 6. Action-conditioned future prediction, consequence-aware motion selection, and subsequent execution feedback.*
 
 **Illustrative studies** (inclusion does not establish that all four properties have been demonstrated):
 
