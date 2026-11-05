@@ -244,9 +244,9 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
   <img src="assets/manuscript-figures/fig6-convergence-illustration.png" alt="Figure 6: Action sensitivity and consequence-aware motion selection" width="840" />
 </p>
 
-*Fig. 6. Action-conditioned future prediction, consequence-aware motion selection, and subsequent execution feedback.*
+*Fig. 6. Illustration of action sensitivity and consequence-aware motion selection in GADMs, inspired by Drive-WM [8]. A generative world model predicts distinct future outcomes conditioned on alternative ego maneuvers. The imagined consequences guide risk-aware evaluation and selection of a feasible motion, while execution feedback informs subsequent decisions.*
 
-**Illustrative studies** (inclusion does not establish that all four properties have been demonstrated):
+**Illustrative studies:**
 
 - **Drive-WM** — Y. Wang, J. He, L. Fan, H. Li, Y. Chen, and Z. Zhang, “Driving into the future: Multiview visual forecasting and planning with world model for autonomous driving,” in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 14749–14759. [[DOI](https://doi.org/10.1109/CVPR52733.2024.01397)]
 - **Drive-OccWorld** — Y. Yang, J. Mei, Y. Ma, S. Du, W. Chen, Y. Qian, Y. Feng, and Y. Liu, “Driving in the occupancy world: Vision-centric 4d occupancy forecasting and planning via world models for autonomous driving,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 39, no. 9, 2025, pp. 9327–9335. [[DOI](https://doi.org/10.1609/aaai.v39i9.33010)]
@@ -258,7 +258,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 
 **More detail:** [Functional convergence collection](convergence.md).
 
-## Datasets, benchmarks, and evaluation
+## Datasets, Benchmarks, and Evaluation Metrics
 
 | Resource | Examples or focus | Full list |
 | :--- | :--- | :--- |
@@ -288,4 +288,4 @@ Please cite the accompanying survey if it supports your research. **Provisional 
 
 ---
 
-**Maintenance note:** Publication links and years reflect author-supplied source metadata. ECCV proceedings metadata can use a later Springer publication year than the conference event. New entries should be reviewed before inclusion.
+
