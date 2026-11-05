@@ -71,11 +71,9 @@ Selected **2026 related work**.
 
 <p align="center"><img src="assets/manuscript-figures/fig2-taxonomy-framework.png" alt="GADM function-oriented taxonomy and conceptual closed-loop framework" width="900" /></p>
 
-*Fig. 2. Function-oriented taxonomy and conceptual closed-loop GADM framework.*
+*Fig. 2. Function-oriented taxonomy and closed-loop process of GADMs. Imagination, Reasoning, and Motion Generation correspond broadly to generative world modeling, VLA intelligence, and generative trajectory and motion planning, respectively, while Observation, Action, and Learning represent shared system-level functions.*
 
-**Observation → Imagination → Reasoning → Motion Generation → Action → Learning**
-
-The six-stage process is a **functional abstraction**, not an architecture purported to be implemented by every paper.
+The six-stage process is a **functional conceptual abstraction**.
 
 | Research direction | Key questions | Detailed collection |
 | :--- | :--- | :--- |
