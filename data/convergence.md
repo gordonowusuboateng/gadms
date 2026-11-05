@@ -1,19 +1,18 @@
+
 # Functional Convergence Toward Unified GADMs
 
-> Curated from *A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence* (manuscript version, October 2026). Reference numbers correspond to the current paper PDF; links are generated from the author-supplied BibTeX; no external validation is implied.
+The survey distinguishes **functional convergence** from architectural uniformity. Sharing a backbone or representation does not, by itself, demonstrate that imagined worlds or reasoning influence downstream decisions. Functional convergence requires meaningful interactions among world modeling, trajectory generation, and VLA intelligence that contribute to more informed and adaptive driving decisions.
 
-The survey distinguishes **functional convergence** from architectural uniformity. Sharing a backbone or representation does not by itself demonstrate that imagined worlds or reasoning change downstream decisions.
+| Property | Evaluation question | Illustrative methods |
+| --- | --- | --- |
+| **Action sensitivity** | Do alternative candidate ego actions change predicted futures? | Drive-WM, Drive-OccWorld |
+| **Semantic-geometric consistency** | Do semantic intentions correspond to feasible geometric motion? | DriveVLM, OccLLaMA |
+| **Consequence-aware action selection** | Do imagined consequences change candidate motion ranking? | Drive-WM, World4Drive |
+| **Closed-loop adaptation** | Do execution observations revise later decisions? | DrivingGPT, DriveWorld-VLA |
 
-| Property | Evaluation question | Illustrative methods | Ref. |
-|---|---|---|---|
-| Action sensitivity | Do alternative candidate ego actions change predicted futures? | Drive-WM, Drive-OccWorld | [8], [57] |
-| Semantic-geometric consistency | Do semantic intentions correspond to feasible geometric motion? | DriveVLM, OccLLaMA | [45], [66] |
-| Consequence-aware action selection | Do imagined consequences change candidate motion ranking? | Drive-WM, World4Drive | [8], [101] |
-| Closed-loop adaptation | Do execution observations revise later decisions? | DrivingGPT, DriveWorld-VLA | [35], [102] |
+The illustrative methods highlight emerging capabilities associated with functional convergence but do not necessarily demonstrate all four properties. Rigorous validation requires counterfactual testing, controlled ablation studies, reactive closed-loop evaluation, and safety-oriented assessments to establish whether predicted futures and semantic reasoning meaningfully influence driving decisions.
 
-Illustrative methods motivate each property but may not fully validate it. Verification needs counterfactual tests, controlled ablations, reactive closed-loop evaluations, and safety checks.
-
-> **Links:** DOI links are preferred where the supplied BibTeX includes a DOI; otherwise, an arXiv or supplied publisher/PDF link is used. Some entries lack an official link in the supplied metadata.
+## Representative Studies
 
 | Study | Year | Venue / status | Publication link |
 | --- | --- | --- | --- |
@@ -26,9 +25,7 @@ Illustrative methods motivate each property but may not fully validate it. Verif
 | **DriveWorld-VLA** | 2026 | Preprint | [Paper](https://arxiv.org/abs/2602.06521) |
 | **AutoVLA** | 2025 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/085713-0942) |
 | **ORION** | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02302) |
-| **GenAD** | 2025 | Computer Vision -- ECCV 2024 | Not provided |
+| **GenAD** | 2025 | Computer Vision -- ECCV 2024 | [DOI](https://doi.org/10.1007/978-3-031-73650-6_6) |
 | **PlanAgent** | 2026 | IEEE Transactions on Cognitive and Developmental Systems | [DOI](https://doi.org/10.1109/TCDS.2026.3664120) |
 
-**Classification note:** Categories follow the survey’s functional taxonomy. Inclusion does not establish causal correctness or closed-loop safety.
-
-See [complete supplied bibliography](bibliography.md) for full paper titles and reference keys.
+See the [complete bibliography](bibliography.md) for full paper titles and publication details.
