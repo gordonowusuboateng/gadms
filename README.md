@@ -154,7 +154,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **CarDreamer** — D. Gao, S. Cai, H. Zhou, H. Wang, I. Soltani, and J. Zhang, “Cardreamer: Open-source learning platform for world-model-based autonomous driving,” IEEE Internet of Things Journal, vol. 12, no. 3, pp. 2866–2875, 2025. [[DOI](https://doi.org/10.1109/JIOT.2024.3479088)]
 - **OccLLaMA** — J. Wei, S. Yuan, P. Li, Q. Hu, Z. Gan, and W. Ding, “Occllama: An occupancy-language-action generative world model for autonomous driving,” 2024. [Online]. Available: https://arxiv.org/abs/2409.03272
 
-**More detail:** [Generative world modeling collection](world-modeling.md).
+**More detail:** [Generative world modeling collection](data/world-modeling.md).
 
 ## Generative trajectory and motion planning
 
