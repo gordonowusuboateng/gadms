@@ -17,7 +17,7 @@
 
 📚 This repository serves as the curated research companion to **A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence**. It provides a systematically organized collection of research papers, datasets, benchmarks, and evaluation resources spanning three interconnected directions: **generative world modeling**, **generative trajectory and motion planning**, and **Vision-Language-Action (VLA) intelligence**. Beyond cataloging existing studies, the repository highlights their emerging functional convergence toward unified, intelligent, and closed-loop autonomous driving systems, including applications to **Automated Valet Parking (AVP)**. The collection will be updated to reflect new developments and emerging research directions.
 
-**[Browse papers](#paper-collections)** · **[Datasets & benchmarks](#datasets-benchmarks-and-evaluation)** · **[Full bibliography](bibliography.md)** · **[Download BibTeX](source-references.bib)** · **[Contribute a paper](CONTRIBUTING.md)**
+**[Browse papers](#paper-collections)** · **[Datasets & benchmarks](#datasets-benchmarks-and-evaluation)** · **[Full bibliography](bibliography.md)** · **[Contribute a paper](CONTRIBUTING.md)**
 
 
 📢 **Publication and Repository Updates:** This repository accompanies our survey, **A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence**, currently available as a research manuscript. We maintain this collection as an evolving resource for the research community, incorporating relevant publications, datasets, benchmarks, and emerging developments in generative autonomous driving.
@@ -44,21 +44,21 @@
 
 ## About this survey
 
-Generative Autonomous Driving Models (GADMs) can generate future scenes, occupancy, interacting agent trajectories, and driving actions. This survey organizes the literature into **three interrelated research directions** and studies when their interaction leads to meaningful **functional convergence** in autonomous driving.
+Generative Autonomous Driving Models (GADMs) can generate future scenes, occupancy, interacting agent trajectories, and driving actions. This survey organizes the literature into **three interrelated research directions** and studies when their interaction leads to meaningful **functional convergence** in autonomous driving scenarios.
 
 <p align="center">
   <img src="assets/manuscript-figures/fig1-transition-gad.png" alt="Figure 1: Transition from deterministic autonomous driving to generative autonomous driving" width="760" />
 </p>
 
-*Fig. 1. Transition from deterministic autonomous driving to generative autonomous driving, highlighting alternative future generation and consequence-aware decisions.*
+*Fig. 1. Transition from deterministic autonomous driving to GAD. Whereas deterministic systems map observations to a single predicted future and action, GAD represents multiple plausible futures, reasons about their
+    consequences, and generates safety-aware decisions under uncertainty.*
 
-**Key principle:** Sharing model backbones or features does not itself establish convergence. Generated futures and grounded reasoning must measurably influence closed-loop action selection, adaptation, or safety.
 
 ## Latest additions and 2026 highlights
 
-Selected **2026 works from the supplied bibliography** (not a claim of weekly or exhaustive updates).
+Selected **2026 related work**.
 
-- **GenieDrive** (2026) — [bibliography pending link](bibliography.md)
+- **GenieDrive** (2026) — [arXiv](https://arxiv.org/abs/2512.12751)
 - **OccSora** (2026) — [DOI](https://doi.org/10.1109/TIP.2026.3687468)
 - **Hermes++** (2026) — [DOI](https://doi.org/10.1109/TPAMI.2026.3735606)
 - **ParkDiffusion++** (2026) — [arXiv](https://arxiv.org/abs/2602.20923)
