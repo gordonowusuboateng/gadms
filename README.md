@@ -2,7 +2,7 @@
 
 ### A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence
 
-[![Stars](https://img.shields.io/github/stars/gordonowusuboateng/generative-autonomous-driving-models?style=social)](https://github.com/gordonowusuboateng/generative-autonomous-driving-models/stargazers) [![Issues](https://img.shields.io/github/issues/gordonowusuboateng/generative-autonomous-driving-models)](https://github.com/gordonowusuboateng/generative-autonomous-driving-models/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/gordonowusuboateng/generative-autonomous-driving-models)](https://github.com/gordonowusuboateng/generative-autonomous-driving-models/pulls) [![Last commit](https://img.shields.io/github/last-commit/gordonowusuboateng/generative-autonomous-driving-models)](https://github.com/gordonowusuboateng/generative-autonomous-driving-models/commits/main)
+[![Stars](https://img.shields.io/github/stars/gordonowusuboateng/gadms?style=social)](https://github.com/gordonowusuboateng/gadms/stargazers) [![Issues](https://img.shields.io/github/issues/gordonowusuboateng/gadms)](https://github.com/gordonowusuboateng/gadms/issues) [![Pull Requests](https://img.shields.io/github/issues-pr/gordonowusuboateng/gadms)](https://github.com/gordonowusuboateng/gadms/pulls) [![Last commit](https://img.shields.io/github/last-commit/gordonowusuboateng/gadms)](https://github.com/gordonowusuboateng/gadms/commits/main)
 
 **Gordon Owusu Boateng**, Qian Dong, Dongyao Jia, Xiansheng Guo, Azzam Mourad, and Nirwan Ansari
 
@@ -236,7 +236,7 @@ See the [full bibliography](bibliography.md) for the full collection, including 
 
 ## Contributing
 
-We welcome corrections and additions! Open an [issue](https://github.com/gordonowusuboateng/generative-autonomous-driving-models/issues) or a [pull request](https://github.com/gordonowusuboateng/generative-autonomous-driving-models/pulls) using the conventions in **[CONTRIBUTING.md](CONTRIBUTING.md)**. Please specify the paper title, DOI/arXiv URL, publication venue/year, taxonomy placement, and an official code link where available.
+We welcome corrections and additions! Open an [issue](https://github.com/gordonowusuboateng/gadms/issues) or a [pull request](https://github.com/gordonowusuboateng/gadms/pulls) using the conventions in **[CONTRIBUTING.md](CONTRIBUTING.md)**. Please specify the paper title, DOI/arXiv URL, publication venue/year, taxonomy placement, and an official code link where available.
 
 ## Citation
 
