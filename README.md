@@ -97,7 +97,7 @@ Selected **2026 related work**.
 - “End-to-End Autonomous Driving: Challenges and Frontiers,” *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024*. [[Paper](https://doi.org/10.1109/TPAMI.2024.3435937)]
 - “Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis,” *IEEE Open Journal of Intelligent Transportation Systems, 2026*. [[Paper](https://doi.org/10.1109/OJITS.2026.3660686)]
 
-See the [full bibliography](bibliography.md) for the full collection, including foundational generative models, motion planning, datasets, and benchmarks.
+See the [full bibliography](data/bibliography.md) for the full collection, including foundational generative models, motion planning, datasets, and benchmarks.
 
 
 
