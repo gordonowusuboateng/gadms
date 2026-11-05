@@ -1,28 +1,30 @@
+
 # Benchmarks and Simulators for GADMs
 
-> Curated from *A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence* (manuscript version, October 2026). Reference numbers correspond to the current paper PDF; official publication/code URLs have not yet been independently verified.
+The following benchmarks, datasets, and simulation platforms support the evaluation of generative autonomous driving models across trajectory planning, closed-loop driving, world modeling, semantic grounding, and occupancy prediction.
 
-| Resource | Classification | Purpose | Ref. |
-|---|---|---|---|
-| nuPlan | Dataset and benchmark | Reactive closed-loop planning | [109] |
-| NAVSIM | Benchmark | Non-reactive planning | [110] |
-| Bench2Drive | Benchmark | Interactive closed-loop driving | [112] |
-| CARLA | Simulator | Configurable urban driving simulation | [111] |
-| LangAuto | Benchmark | Language-guided driving in CARLA | [12] |
-| Occ3D | Benchmark | Occupancy prediction | [105] |
-| WorldScore | Benchmark | Evaluation of generated worlds | [118] |
-| DriveArena | Simulation platform | Generative closed-loop driving assessment | [119] |
+| Resource | Classification | Purpose |
+| --- | --- | --- |
+| **nuPlan** | Dataset and benchmark | Open-loop and reactive/non-reactive closed-loop planning |
+| **NAVSIM** | Benchmark | Non-reactive planning evaluation |
+| **Bench2Drive** | Benchmark | Interactive closed-loop driving |
+| **CARLA** | Simulator | Configurable urban driving simulation |
+| **LangAuto** | Benchmark | Language-guided driving in CARLA |
+| **Occ3D** | Benchmark | 3D occupancy prediction |
+| **WorldScore** | Benchmark | Evaluation of generated worlds |
+| **DriveArena** | Simulation platform | Generative closed-loop driving assessment |
 
-**Caution:** scores from reactive and non-reactive settings are not directly comparable.
+## Publication Links
 
-## Publication links from the supplied BibTeX
-
-| Resource / study | Publication |
+| Resource / Study | Publication |
 | --- | --- |
-| nuPlan | Not supplied |
-| NAVSIM | [DOI](https://doi.org/10.52202/079017-0902) |
-| Bench2Drive | [DOI](https://doi.org/10.52202/079017-0025) |
-| CARLA | Not supplied |
-| WorldScore | Not supplied |
-| DriveArena | [DOI](https://doi.org/10.1109/ICCV51701.2025.02500) |
-| Occ3D | [DOI](https://doi.org/10.52202/075280-2809) |
+| **nuPlan** | [DOI](https://doi.org/10.1109/ICRA57147.2024.10610077) |
+| **NAVSIM** | [DOI](https://doi.org/10.52202/079017-0902) |
+| **Bench2Drive** | [DOI](https://doi.org/10.52202/079017-0025) |
+| **CARLA** | [Paper](https://proceedings.mlr.press/v78/dosovitskiy17a.html) |
+| **LangAuto (LMDrive)** | [DOI](https://doi.org/10.1109/CVPR52733.2024.01432) |
+| **Occ3D** | [DOI](https://doi.org/10.52202/075280-2809) |
+| **WorldScore** | [Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Duan_WorldScore_A_Unified_Evaluation_Benchmark_for_World_Generation_ICCV_2025_paper.html) |
+| **DriveArena** | [DOI](https://doi.org/10.1109/ICCV51701.2025.02500) |
+
+See the [complete bibliography](bibliography.md) for full paper titles and publication details.
