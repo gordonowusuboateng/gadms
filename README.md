@@ -106,7 +106,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 
 **Reading guide:** Each item lists a method, title where available, venue/year, and **[Paper]** (DOI or arXiv). **[Code]** is shown only where the authors identify an official repository. Some works appear in multiple directions where research scopes overlap.
 
-## Generative World Modeling
+## Generative World Modeling in GADMs
 
 <p align="center">
   <img src="assets/manuscript-figures/fig3-world-modeling-taxonomy.png" alt="Figure 3: Taxonomy of generative world models" width="840" />
@@ -114,7 +114,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 
 *Fig. 3. Taxonomy of generative world models in GADMs. Visual world models generate future sensor observations, geometric and occupancy world models predict spatial occupancy and scene evolution, and latent and agent-centric world models support efficient prediction, policy learning, and interactive traffic simulation.*
 
-### Visual and video world modeling
+### Visual world models
 
 - **DriveGAN** — S. W. Kim, J. Philion, A. Torralba, and S. Fidler, “Drivegan: Towards a controllable high-quality neural simulation,” in 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021, pp. 5816–5825. [[DOI](https://doi.org/10.1109/CVPR46437.2021.00576)]
 - **GAIA-1** — A. Hu, L. Russell, H. Yeo, Z. Murez, G. Fedoseev, A. Kendall, J. Shotton, and G. Corrado, “Gaia-1: A generative world model for autonomous driving,” 2023. [Online]. Available: https://arxiv.org/abs/2309.17080
@@ -131,7 +131,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **InstaDrive** — Z. Yang, X. Guo, C. Ding, C. Wang, W. Wu, and Y. Zhang, “Instadrive: Instance-aware driving world models for realistic and consistent video generation,” in 2025 IEEE/CVF International Conference on Computer Vision (ICCV), 2025, pp. 25410–25420. [[DOI](https://doi.org/10.1109/ICCV51701.2025.02357)]
 - **DriveDreamer4D** — G. Zhao, C. Ni, X. Wang, Z. Zhu, X. Zhang, Y. Wang, G. Huang, X. Chen, B. Wang, Y. Zhang, W. Mei, and X. Wang, “Drivedreamer4d: World models are effective data machines for 4d driving scene representation,” in 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025, pp. 12015–12026. [[DOI](https://doi.org/10.1109/CVPR52734.2025.01122)]
 
-### Geometric and occupancy world modeling
+### Geometric and occupancy world models
 
 - **OccWorld** — W. Zheng, W. Chen, Y. Huang, B. Zhang, Y. Duan, and J. Lu, “Occworld: Learning a 3d occupancy world model for autonomous driving,” in Computer Vision – ECCV 2024. Cham: Springer Nature Switzerland, 2025, pp. 55–72. [[DOI](https://doi.org/10.1007/978-3-031-72624-8_4)] [[Code](https://github.com/wzzheng/OccWorld)]
 - **Drive-OccWorld** — Y. Yang, J. Mei, Y. Ma, S. Du, W. Chen, Y. Qian, Y. Feng, and Y. Liu, “Driving in the occupancy world: Vision-centric 4d occupancy forecasting and planning via world models for autonomous driving,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 39, no. 9, 2025, pp. 9327–9335. [[DOI](https://doi.org/10.1609/aaai.v39i9.33010)]
@@ -143,7 +143,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **DriveWorld** — C. Min, D. Zhao, L. Xiao, J. Zhao, X. Xu, Z. Zhu, L. Jin, J. Li, Y. Guo, J. Xing, L. Jing, Y. Nie, and B. Dai, “Driveworld: 4d pre-trained scene understanding via world models for autonomous driving,” in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 15522–15533. [[DOI](https://doi.org/10.1109/CVPR52733.2024.01470)]
 - **Hermes++** — X. Zhou, D. Liang, X. Chen, F. Tan, D. Zhang, H. Zhao, and X. Bai, “Hermes++: Toward a unified driving world model for 3D scene understanding and generation,” IEEE Transactions on Pattern Analysis and Machine Intelligence, pp. 1–18, 2026. [[DOI](https://doi.org/10.1109/TPAMI.2026.3735606)]
 
-### Latent, agent-centric, and interactive world modeling
+### Latent and agent-centric world models
 
 - **MILE** — A. Hu, G. Corrado, N. Griffiths, Z. Murez, C. Gurau, H. Yeo, A. Kendall, R. Cipolla, and J. Shotton, “Model-based imitation learning for urban driving,” in Advances in Neural Information Processing Systems, vol. 35. Curran Associates, Inc., 2022, pp. 20703–20716. [[DOI](https://doi.org/10.52202/068431-1505)]
 - **BEVWorld** — Y. Zhang, S. Gong, K. Xiong, X. Ye, X. Li, X. Tan, F. Wang, J. Huang, H. Wu, and H. Wang, “Bevworld: A multimodal world simulator for autonomous driving via scene-level bev latents,” 2025. [Online]. Available: https://arxiv.org/abs/2407.05679
