@@ -36,7 +36,6 @@ This bibliography lists references from the survey’s BibTeX database.
 | Denoising Diffusion Probabilistic Models | 2020 | Advances in Neural Information Processing Systems | [Paper](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html) |
 | Score-Based Generative Modeling through Stochastic Differential Equations | 2021 | Preprint/other | [Paper](https://arxiv.org/abs/2011.13456) |
 | Flow Matching for Generative Modeling | 2023 | Preprint/other | [Paper](https://arxiv.org/abs/2210.02747) |
-| A tutorial on energy-based learning | 2006 | Predicting structured data | [PDF](https://yann.lecun.org/exdb/publis/pdf/lecun-06.pdf) |
 | DeepInteraction++: Multi-Modality Interaction for Autonomous Driving | 2025 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2025.3565194) |
 | HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding | 2023 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2023.3298301) |
 | DriveWorld: 4D Pre-Trained Scene Understanding via World Models for Autonomous Driving | 2024 | 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR52733.2024.01470) |
@@ -98,32 +97,19 @@ This bibliography lists references from the survey’s BibTeX database.
 | V2X-VLM: End-to-End V2X cooperative autonomous driving through large vision-Language models | 2026 | Transportation Research Part C: Emerging Technologies | [DOI](https://doi.org/10.1016/j.trc.2025.105457) |
 | Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-0025) |
 | World4Drive: End-to-End Autonomous Driving via Intention-Aware Physical Latent World Model | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02659) |
-| Latent Chain-of-Thought World Modeling for End-to-End Driving | 2026 | Preprint/other | [Paper](https://arxiv.org/abs/2512.10226) |
-| DrivingGPT: Unifying Driving World Modeling and Planning with Multi-Modal Autoregressive Transformers | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02496) |
 | DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving | 2026 | Preprint/other | [Paper](https://arxiv.org/abs/2602.06521) |
 | nuScenes: A Multimodal Dataset for Autonomous Driving | 2020 | 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR42600.2020.01164) |
-| Scalability in Perception for Autonomous Driving: Waymo Open Dataset | 2020 | 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR42600.2020.00252) |
-| BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning | 2020 | 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR42600.2020.00271) |
 | Towards learning-based planning: The nuPlan benchmark for real-world autonomous driving | 2024 | 2024 IEEE International Conference on Robotics and Automation (ICRA) | [DOI](https://doi.org/10.1109/ICRA57147.2024.10610077) |
 | NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking | 2024 | Advances in Neural Information Processing Systems | [DOI](https://doi.org/10.52202/079017-0902) |
 | CARLA: An Open Urban Driving Simulator | 2017 | Proceedings of the 1st Annual Conference on Robot Learning | [Paper](https://proceedings.mlr.press/v78/dosovitskiy17a.html) |
-| VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models | 2026 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2025.3633890) |
 | MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying | 2024 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2024.3352811) |
-| Vision-Based Multi-Future Trajectory Prediction: A Survey | 2025 | IEEE Transactions on Neural Networks and Learning Systems | [DOI](https://doi.org/10.1109/TNNLS.2025.3550350) |
-| A Survey of End-to-End Driving: Architectures and Training Methods | 2022 | IEEE Transactions on Neural Networks and Learning Systems | [DOI](https://doi.org/10.1109/TNNLS.2020.3043505) |
-| Parting with Misconceptions about Learning-based Vehicle Motion Planning | 2023 | Proceedings of The 7th Conference on Robot Learning | [Paper](https://proceedings.mlr.press/v229/dauner23a.html) |
-| Pseudo-Simulation for Autonomous Driving | 2026 | Preprint/other | [Paper](https://arxiv.org/abs/2506.04218) |
-| Automated Valet Parking Trajectory Planning With Dual-Branch Conditional Transformer | 2026 | IEEE Open Journal of Intelligent Transportation Systems | [DOI](https://doi.org/10.1109/OJITS.2026.3658779) |
 | Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.00621) |
-| WPT: World-to-Policy Transfer via Online World Model Distillation | 2026 | Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) | [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Jiang_WPT_World-to-Policy_Transfer_via_Online_World_Model_Distillation_CVPR_2026_paper.html) |
 | DriveArena: A Closed-Loop Generative Simulation Platform for Autonomous Driving | 2025 | 2025 IEEE/CVF International Conference on Computer Vision (ICCV) | [DOI](https://doi.org/10.1109/ICCV51701.2025.02500) |
 | GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium | 2017 | Advances in Neural Information Processing Systems | [Paper](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html) |
 | Towards Accurate Generative Models of Video: A New Metric & Challenges | 2019 | Preprint/other | [Paper](https://arxiv.org/abs/1812.01717) |
 | Model-Based Reinforcement Learning With Isolated Imaginations | 2024 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2023.3335263) |
 | Hermes++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation | 2026 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2026.3735606) |
 | Hybrid-Prediction Integrated Planning for Autonomous Driving | 2025 | IEEE Transactions on Pattern Analysis and Machine Intelligence | [DOI](https://doi.org/10.1109/TPAMI.2025.3526936) |
-| The Pascal Visual Object Classes (VOC) Challenge | 2010 | International Journal of Computer Vision | [DOI](https://doi.org/10.1007/s11263-009-0275-4) |
-| The Cityscapes Dataset for Semantic Urban Scene Understanding | 2016 | 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR.2016.350) |
 | DESIRE: Distant Future Prediction in Dynamic Scenes With Interacting Agents | 2017 | Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) | [DOI](https://doi.org/10.1109/CVPR.2017.233) |
 | AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting | 2021 | Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) | [Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yuan_AgentFormer_Agent-Aware_Transformers_for_Socio-Temporal_Multi-Agent_Forecasting_ICCV_2021_paper.html) |
 | DriveGPT: Scaling Autoregressive Behavior Models for Driving | 2025 | Proceedings of the 42nd International Conference on Machine Learning | [PDF](https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25ak/huang25ak.pdf) |
