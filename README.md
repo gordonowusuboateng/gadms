@@ -19,7 +19,13 @@
 
 **[Browse papers](#paper-collections)** · **[Datasets & benchmarks](#datasets-benchmarks-and-evaluation)** · **[Full bibliography](bibliography.md)** · **[Download BibTeX](source-references.bib)** · **[Contribute a paper](CONTRIBUTING.md)**
 
-> **Publication status:** The survey manuscript has not been assigned a publicly supplied URL or DOI. The repository does not claim publication or acceptance. Links below use author-supplied DOI/arXiv metadata; external resolution is not guaranteed.
+
+📢 **Publication and Repository Updates:** This repository accompanies our survey, **A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence**, currently available as a research manuscript. We maintain this collection as an evolving resource for the research community, incorporating relevant publications, datasets, benchmarks, and emerging developments in generative autonomous driving.
+
+📝 **Contributions are welcome!** Feel free to submit [pull requests](https://github.com/gordonowusuboateng/gadms/pulls) or contact us via [email](mailto:Gordon.Boateng@xjtlu.edu.cn) to suggest new papers, contribute research resources, or report corrections. Please refer to our [contribution guidelines](https://github.com/gordonowusuboateng/gadms/blob/main/CONTRIBUTING.md).
+
+⭐ **Support this repository!** If you find this collection useful, please consider [citing our survey](https://github.com/gordonowusuboateng/gadms#citation), [starring the repository](https://github.com/gordonowusuboateng/gadms), and sharing it with the research community. Your contributions and support will help keep this resource comprehensive, accurate, and up to date.
+
 
 ## Contents
 
