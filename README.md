@@ -156,15 +156,15 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 
 **More detail:** [Generative world modeling collection](data/world-modeling.md).
 
-## Generative trajectory and motion planning
+## Generative Trajectory and Motion Planning in GADMs
 
 <p align="center">
   <img src="assets/manuscript-figures/fig4-trajectory-motion-taxonomy.png" alt="Figure 4: Taxonomy of generative trajectory and motion planning" width="840" />
 </p>
 
-*Fig. 4. Taxonomy of multimodal trajectory generation, generative ego-motion planning, and joint prediction and interactive planning.*
+*Fig. 4. Taxonomy of generative trajectory and motion planning in GADMs. Multimodal trajectory generation models diverse agent futures through latentvariable, mixture, diffusion, and autoregressive approaches; generative ego-motion planning produces and selects executable trajectories using token-based, diffusion, and flow-based methods; and joint prediction and interactive planning integrates motion forecasting with ego planning and models agent responses to alternative ego decisions.*
 
-### Multimodal agent trajectory prediction
+### Multimodal trajectory generation
 
 - **DESIRE** — N. Lee, W. Choi, P. Vernaza, C. B. Choy, P. H. S. Torr, and M. Chandraker, “Desire: Distant future prediction in dynamic scenes with interacting agents,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), July 2017. [[DOI](https://doi.org/10.1109/CVPR.2017.233)]
 - **Trajectron++** — T. Salzmann, B. Ivanovic, P. Chakravarty, and M. Pavone, “Trajectron++: Dynamically-feasible trajectory forecasting with heterogeneous data,” in Computer Vision – ECCV 2020, A. Vedaldi, H. Bischof, T. Brox, and J.-M. Frahm, Eds. Cham: Springer International Publishing, 2020, pp. 683–700. [[DOI](https://doi.org/10.1007/978-3-030-58523-5_40)]
@@ -177,7 +177,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **Leapfrog Diffusion** — W. Mao, C. Xu, Q. Zhu, S. Chen, and Y. Wang, “Leapfrog diffusion model for stochastic trajectory prediction,” in 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 5517–5526. [[DOI](https://doi.org/10.1109/CVPR52729.2023.00534)]
 - **Heteroscedastic Diffusion** — G. Capellera, A. Rubio, L. Ferraz, and A. Agudo, “Heteroscedastic diffusion for multi-agent trajectory modeling,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 48, no. 10, pp. 11964–11977, 2026. [[DOI](https://doi.org/10.1109/TPAMI.2026.3692903)]
 
-### Generative ego-motion and end-to-end planning
+### Generative ego-motion planning
 
 - **VADv2** — B. Jiang, S. Chen, H. Gao, B. Liao, Q. Zhang, W. Liu, and X. Wang, “Vadv2: End-to-end vectorized autonomous driving via probabilistic planning,” in International Conference on Learning Representations, vol. 2026, 2026, pp. 68886–68900. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2026/hash/70925fe2336ae05917c817d5e4660ab5-Abstract-Conference.html)]
 - **Diffusion-ES** — B. Yang, H. Su, N. Gkanatsios, T.-W. Ke, A. Jain, J. Schneider, and K. Fragkiadaki, “Diffusion-es: Gradient-free planning with diffusion for autonomous and instruction-guided driving,” in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 15342– 15353. [[DOI](https://doi.org/10.1109/CVPR52733.2024.01453)]
@@ -187,7 +187,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **GenAD** — W. Zheng, R. Song, X. Guo, C. Zhang, and L. Chen, “Genad: Generative end-to-end autonomous driving,” in Computer Vision – ECCV 2024, A. Leonardis, E. Ricci, S. Roth, O. Russakovsky, T. Sattler, and G. Varol, Eds. Cham: Springer Nature Switzerland, 2025, pp. 87–104. [[DOI](https://doi.org/10.1007/978-3-031-73650-6_6)] [[Code](https://github.com/wzzheng/GenAD)]
 - **DriveGPT** — X. Huang, E. M. Wolff, P. Vernaza, T. Phan-Minh, H. Chen, D. S. Hayden, M. Edmonds, B. Pierce, X. Chen, P. E. Jacob, X. Chen, C. Tairbekov, P. Agarwal, T. Gao, Y. Chai, and S. Srinivasa, “DriveGPT: Scaling autoregressive behavior models for driving,” in Proceedings of the 42nd International Conference on Machine Learning, ser. Proceedings of Machine Learning Research, A. Singh, M. Fazel, D. Hsu, S. Lacoste-Julien, F. Berkenkamp, T. Maharaj, K. Wagstaff, and J. Zhu, Eds., vol. 267. PMLR, 13–19 Jul 2025, pp. 25908–25921. [[PDF](https://raw.githubusercontent.com/mlresearch/v267/main/assets/huang25ak/huang25ak.pdf)]
 
-### Joint prediction, interaction, and planning
+### Joint prediction and interactive planning
 
 - **DTPP** — Z. Huang, P. Karkus, B. Ivanovic, Y. Chen, M. Pavone, and C. Lv, “Dtpp: Differentiable joint conditional prediction and cost evaluation for tree policy planning in autonomous driving,” in 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024, pp. 6806–6812. [[DOI](https://doi.org/10.1109/ICRA57147.2024.10610550)]
 - **GameFormer** — Z. Huang, H. Liu, and C. Lv, “Gameformer: Game-theoretic modeling and learning of transformer-based interactive prediction and planning for autonomous driving,” in 2023 IEEE/CVF International Conference on Computer Vision (ICCV), 2023, pp. 3880–3890. [[DOI](https://doi.org/10.1109/ICCV51070.2023.00361)]
@@ -195,13 +195,13 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 
 **More detail:** [Generative trajectory and motion planning collection](trajectory-motion.md).
 
-## Vision-language-action intelligence
+## Vision-Language-Action Intelligence in GADMs
 
 <p align="center">
   <img src="assets/manuscript-figures/fig5-vla-taxonomy.png" alt="Figure 5: Taxonomy of vision-language-action intelligence" width="840" />
 </p>
 
-*Fig. 5. Taxonomy of semantic grounding and reasoning, language-conditioned motion generation, and agentic, closed-loop, and cooperative VLA intelligence.*
+*Fig. 5. Taxonomy of VLA intelligence for GADMs. Semantic grounding and reasoning models connect multimodal observations to decision-relevant concepts and geometric representations; language-conditioned action models translate semantic intent into trajectories and controls; and agentic, closed-loop, and cooperative systems integrate memory, tools, planning, and safety verification.*
 
 ### Semantic grounding and driving reasoning
 
@@ -212,7 +212,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **GPT-Driver** — J. Mao, Y. Qian, J. Ye, H. Zhao, and Y. Wang, “Gpt-driver: Learning to drive with gpt,” 2023. [Online]. Available: https://arxiv.org/abs/2310.01415
 - **DriveVLM** — X. Tian, J. Gu, B. Li, Y. Liu, Y. Wang, Z. Zhao, K. Zhan, P. Jia, X. Lang, and H. Zhao, “Drivevlm: The convergence of autonomous driving and large vision-language models,” 2024. [Online]. Available: https://arxiv.org/abs/2402.12289
 
-### Language-conditioned action and trajectory generation
+### Language-conditioned trajectory and action generation
 
 - **LMDrive** — H. Shao, Y. Hu, L. Wang, G. Song, S. L. Waslander, Y. Liu, and H. Li, “Lmdrive: Closed-loop end-to-end driving with large language models,” in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 15120–15130. [[DOI](https://doi.org/10.1109/CVPR52733.2024.01432)]
 - **VLP** — C. Pan, B. Yaman, T. Nesti, A. Mallik, A. G. Allievi, S. Velipasalar, and L. Ren, “Vlp: Vision language planning for autonomous driving,” in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 14760–14769. [[DOI](https://doi.org/10.1109/CVPR52733.2024.01398)]
@@ -220,7 +220,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 - **AutoVLA** — Z. Zhou, T. Cai, S. Zhao, Y. Zhang, Z. Huang, B. Zhou, and J. Ma, “Autovla: A vision-language-action model for end-to-end autonomous driving with adaptive reasoning and reinforcement fine-tuning,” in Advances in Neural Information Processing Systems, vol. 38, Main Conference. Curran Associates, Inc., 2025, pp. 27920–27956. [[DOI](https://doi.org/10.52202/085713-0942)]
 - **OpenDriveVLA** — X. Zhou, X. Han, F. Yang, Y. Ma, V. Tresp, and A. Knoll, “OpenDriveVLA: Towards end-to-end autonomous driving with large vision language action model,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 40, no. 16, 2026, pp. 13782–13790. [[DOI](https://doi.org/10.1609/aaai.v40i16.38386)]
 
-### Agentic, cooperative, and world-grounded intelligence
+### Agentic, closed-loop, and cooperative VLA
 
 - **DiLu** — L. Wen, D. Fu, X. Li, X. Cai, T. Ma, P. Cai, M. Dou, B. Shi, L. He, and Y. Qiao, “Dilu: A knowledge-driven approach to autonomous driving with large language models,” in International Conference on Learning Representations, vol. 2024, 2024, pp. 34503–34522. [[Paper](https://proceedings.iclr.cc/paper_files/paper/2024/hash/93c936b9e492def9c00782cab79dbc6d-Abstract-Conference.html)]
 - **Agent-Driver** — J. Mao, Y. Qian, J. Ye, H. Zhao, and Y. Wang, “Gpt-driver: Learning to drive with gpt,” 2023. [Online]. Available: https://arxiv.org/abs/2310.01415
@@ -231,7 +231,7 @@ See the [full bibliography](data/bibliography.md) for the full collection, inclu
 
 **More detail:** [Vision-language-action intelligence collection](vla-intelligence.md).
 
-## Functional convergence
+## Functional Convergence Toward Unified GADMs
 
 | Convergence property | Evaluation question |
 | :--- | :--- |
