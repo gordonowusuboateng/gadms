@@ -75,9 +75,9 @@ Selected **2026 Related Work**.
 
 | Research direction | Key questions | Detailed collection |
 | :--- | :--- | :--- |
-| **Generative world modeling** | What futures can the model generate, and how do candidate actions affect them? | [World modeling](world-modeling.md) |
-| **Generative trajectory and motion planning** | How are multimodal trajectories generated, evaluated, and selected? | [Motion generation](trajectory-motion.md) |
-| **VLA intelligence** | How do language and grounded semantic reasoning influence driving actions? | [VLA intelligence](vla-intelligence.md) |
+| **Generative world modeling** | What futures can the model generate, and how do candidate actions affect them? | [World modeling](data/world-modeling.md) |
+| **Generative trajectory and motion planning** | How are multimodal trajectories generated, evaluated, and selected? | [Motion generation](data/trajectory-motion.md) |
+| **VLA intelligence** | How do language and grounded semantic reasoning influence driving actions? | [VLA intelligence](data/vla-intelligence.md) |
 
 
 
