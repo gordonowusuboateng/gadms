@@ -275,7 +275,7 @@ We welcome corrections and additions! Open an [issue](https://github.com/gordono
 
 ## Citation
 
-Please cite the accompanying survey if it supports your research. **Provisional BibTeX** (replace with the official record once publicly released):
+Please cite the accompanying survey if it supports your research:
 
 ```bibtex
 @misc{boateng2026gadms,
