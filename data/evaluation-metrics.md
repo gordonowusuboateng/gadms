@@ -1,6 +1,6 @@
 # Evaluation Metrics for GADMs
 
-> Curated from *A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence* (manuscript version, October 2026). Reference numbers correspond to the current paper PDF; official publication/code URLs have not yet been independently verified.
+
 
 | Capability | Representative measures |
 |---|---|
