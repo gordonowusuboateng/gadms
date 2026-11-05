@@ -81,6 +81,27 @@ Selected **2026 related work**.
 
 
 
+## Related surveys
+
+- “Generative AI for Autonomous Driving: Frontiers and Opportunities,” *ACM Computing Surveys, 2026*. [[Paper](https://doi.org/10.1145/3838726)]
+- “Generative AI for Autonomous Driving: A Review,” *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2505.15863)]
+- “Foundation Models for Autonomous Driving: A Comprehensive Survey,” *Engineering Applications of Artificial Intelligence, 2026*. [[Paper](https://doi.org/10.1016/j.engappai.2026.114805)]
+- “World Models for Autonomous Driving: An Initial Survey,” *IEEE Transactions on Intelligent Vehicles, 2024*. [[Paper](https://doi.org/10.1109/TIV.2024.3398357)]
+- “A Survey of World Models for Autonomous Driving,” *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2501.11260)]
+- “The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey,” *Frontiers of Computer Science, 2026*. [[Paper](https://doi.org/10.1007/s11704-026-60102-1)]
+- “A Survey on Multimodal Large Language Models for Autonomous Driving,” *IEEE/CVF WACV Workshops, 2024*. [[Paper](https://doi.org/10.1109/WACVW60836.2024.00106)]
+- “A Survey on Vision-Language-Action Models for Autonomous Driving,” *IEEE/CVF ICCV Workshops, 2025*. [[Paper](https://doi.org/10.1109/ICCVW69036.2025.00476)]
+- “Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future,” *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2512.16760)]
+- “A Survey on Vision-Language-Action Models for Embodied AI,” *IEEE Transactions on Neural Networks and Learning Systems, 2026*. [[Paper](https://doi.org/10.1109/TNNLS.2025.3650584)]
+- “A Survey on Efficient Vision-Language-Action Models,” *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026*. [[Paper](https://doi.org/10.1109/TPAMI.2026.3734740)]
+- “End-to-End Autonomous Driving: Challenges and Frontiers,” *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024*. [[Paper](https://doi.org/10.1109/TPAMI.2024.3435937)]
+- “Foundation Models in Autonomous Driving: A Survey on Scenario Generation and Scenario Analysis,” *IEEE Open Journal of Intelligent Transportation Systems, 2026*. [[Paper](https://doi.org/10.1109/OJITS.2026.3660686)]
+
+See the [full bibliography](bibliography.md) for the full collection, including foundational generative models, motion planning, datasets, and benchmarks.
+
+
+
+
 ## Paper collections
 
 **Reading guide:** Each item lists a method, title where available, venue/year, and **[Paper]** (DOI or arXiv). **[Code]** is shown only where the authors identify an official repository. Some works appear in multiple directions where research scopes overlap.
@@ -246,16 +267,6 @@ Selected **2026 related work**.
 | **Metrics** | Generative fidelity, trajectory quality, planning, closed-loop safety | [Evaluation metrics](evaluation-metrics.md) |
 | **Last-mile application** | Generative modeling and planning for automated valet parking | [Automated valet parking](automated-valet-parking.md) |
 
-## Related surveys
-
-- “End-to-End Autonomous Driving: Challenges and Frontiers,” *TPAMI, 2024*. [[Paper](https://doi.org/10.1109/TPAMI.2024.3435937)]
-- “Generative AI for Autonomous Driving: Frontiers and Opportunities,” *ACM Computing Surveys, 2026*. [[Paper](https://doi.org/10.1145/3838726)]
-- “World Models for Autonomous Driving: An Initial Survey,” *IEEE T-IV, 2024*. [[Paper](https://doi.org/10.1109/TIV.2024.3398357)]
-- “A Survey on Vision-Language-Action Models for Embodied AI,” *IEEE TNNLS, 2026*. [[Paper](https://doi.org/10.1109/TNNLS.2025.3650584)]
-- “A Survey on Efficient Vision-Language-Action Models,” *IEEE TPAMI, 2026*. [[Paper](https://doi.org/10.1109/TPAMI.2026.3734740)]
-- “Foundation Models for Autonomous Driving: A Comprehensive Survey,” *EAAI, 2026*. [[Paper](https://doi.org/10.1016/j.engappai.2026.114805)]
-
-See the [full bibliography](bibliography.md) for the full collection, including foundational generative models, motion planning, datasets, and benchmarks.
 
 ## Contributing
 
