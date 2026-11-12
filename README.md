@@ -281,7 +281,7 @@ Please cite the accompanying survey if it supports your research:
 ```bibtex
 @misc{boateng2026gadms,
   title  = {A Survey on Generative Autonomous Driving Models: Foundations, Taxonomy, and Convergence},
-  author = {Boateng, Gordon Owusu and Dong, Qian and Jia, Dongyao and Guo, Xiansheng and Mourad, Azzam and Ansari, Nirwan},
+  author = {Boateng, Gordon Owusu and Dong, Qian and Jia, Dongyao and Guo, Xiansheng and Mourad, Azzam and Otrok, Hadi and Ansari, Nirwan},
   year   = {2026},
   note   = {Manuscript}
 }
